@@ -1,0 +1,17 @@
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="a" x2="0" y2="16" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fb4934" offset=".1875"/>
+    <stop stop-color="#fabd2f" offset="0"/>
+    <stop stop-color="#fabd2f" offset=".3125"/>
+    <stop stop-color="#b8bb26" offset="0"/>
+    <stop stop-color="#b8bb26" offset=".4375"/>
+    <stop stop-color="#8ec07c" offset="0"/>
+    <stop stop-color="#8ec07c" offset=".5625"/>
+    <stop stop-color="#83a598" offset="0"/>
+    <stop stop-color="#83a598" offset=".6875"/>
+    <stop stop-color="#8f3f71" offset="0"/>
+    <stop stop-color="#8f3f71" offset=".8125"/>
+    <stop stop-color="#fb4934" offset="0"/>
+  </linearGradient>
+  <circle cx="8" cy="8" r="7" fill="url(#a)"/>
+</svg>

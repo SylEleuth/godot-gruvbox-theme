@@ -1,0 +1,8 @@
+<svg width="16" height="128" version="1.1" viewBox="0 0 16 128" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="a" x1="8" x2="8" y1="2" y2="126" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fb4934" offset="0"/>
+    <stop stop-color="#fabd2f" offset=".5"/>
+    <stop stop-color="#8ec07c" offset="1"/>
+  </linearGradient>
+  <path d="M3 3h10m0 3H3m0 3h10m0 3H3m0 3h10m0 3H3m0 3h10m0 3H3m0 3h10m0 5H3m0 3h10m0 3H3m0 3h10m0 3H3m0 3h10m0 3H3m0 3h10m0 3H3m0 3h10m0 3H3m0 3h10m0 3H3m0 3h10m0 3H3m0 3h10m0 3H3m0 3h10m0 3H3m0 3h10m0 3H3m0 3h10m0 3H3m0 3h10m0 3H3m0 3h10m0 3H3m0 3h10m0 3H3m0 3h10m0 3H3m0 3h10" fill="none" stroke="url(#a)" stroke-linecap="round" stroke-width="2"/>
+</svg>
