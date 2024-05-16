@@ -1,4 +1,4 @@
-[gd_resource type="Theme" load_steps=219 format=3 uid="uid://bx3drt63gcv0p"]
+[gd_resource type="Theme" load_steps=422 format=3 uid="uid://bx3drt63gcv0p"]
 
 [ext_resource type="Texture2D" uid="uid://cqrhwkedcfwfv" path="res://icons/gruvbox_dark/checked.svg" id="1_brh2b"]
 [ext_resource type="Texture2D" uid="uid://ca3b82koew6ie" path="res://icons/gruvbox_dark/unchecked.svg" id="2_760oc"]
@@ -61,26 +61,229 @@
 [ext_resource type="Texture2D" uid="uid://cge6xtov0gob7" path="res://icons/gruvbox_dark/text_edit_tab.svg" id="33_j0he2"]
 [ext_resource type="Texture2D" uid="uid://cmo8kllknq5l" path="res://icons/gruvbox_dark/picker_shape_rectangle_wheel.svg" id="34_bkhny"]
 [ext_resource type="Texture2D" uid="uid://mamku8q4kj8y" path="res://icons/gruvbox_dark/mini_checkerboard.svg" id="35_d3gkm"]
-[ext_resource type="Texture2D" uid="uid://b7xro2cis2xsl" path="res://icons/gruvbox_dark/Object.svg" id="36_1ccwa"]
+[ext_resource type="Texture2D" uid="uid://c8qq2c3osx26d" path="res://icons/gruvbox_dark/AcceptDialog.svg" id="36_7kalk"]
 [ext_resource type="Texture2D" uid="uid://dg1t0hhyx6vel" path="res://icons/gruvbox_dark/CanvasItem.svg" id="36_714sy"]
 [ext_resource type="Texture2D" uid="uid://chb7bgkct7dlj" path="res://icons/gruvbox_dark/FileMediumThumb.svg" id="36_a3lyr"]
+[ext_resource type="Texture2D" uid="uid://cew2hjtehxjp5" path="res://icons/gruvbox_dark/2D.svg" id="36_ecw7l"]
 [ext_resource type="Texture2D" uid="uid://dpl0tpyon3mdl" path="res://icons/gruvbox_dark/FileBigThumb.svg" id="36_p1uli"]
-[ext_resource type="Texture2D" uid="uid://doit2pxw3b2mx" path="res://icons/gruvbox_dark/ObjectDisabled.svg" id="37_drmk1"]
+[ext_resource type="Texture2D" uid="uid://dlbq8tbpxd0pa" path="res://icons/gruvbox_dark/3D.svg" id="37_5vekb"]
+[ext_resource type="Texture2D" uid="uid://o5vejju0kym6" path="res://icons/gruvbox_dark/AABB.svg" id="38_7ixkp"]
 [ext_resource type="Texture2D" uid="uid://cg2827g81ltww" path="res://icons/gruvbox_dark/MainMovieWrite.svg" id="38_gy7f2"]
 [ext_resource type="Texture2D" uid="uid://j18yxpw7xw1y" path="res://icons/gruvbox_dark/vslider_tick.svg" id="38_ytc2b"]
 [ext_resource type="Texture2D" uid="uid://dd0guh6cnpvaf" path="res://icons/gruvbox_dark/ReloadSmall.svg" id="39_6jvge"]
 [ext_resource type="Texture2D" uid="uid://63twdfskl5w4" path="res://icons/gruvbox_dark/Node.svg" id="39_lwgol"]
 [ext_resource type="Texture2D" uid="uid://co1tap201218q" path="res://icons/gruvbox_dark/close_hl.svg" id="39_nf777"]
+[ext_resource type="Texture2D" uid="uid://bhe5473ayjyhp" path="res://icons/gruvbox_dark/ActionCopy.svg" id="40_bosvw"]
 [ext_resource type="Texture2D" uid="uid://cbsacd1s0wkod" path="res://icons/gruvbox_dark/Node2D.svg" id="40_bxqg5"]
+[ext_resource type="Texture2D" uid="uid://dy0prwlpr5gfe" path="res://icons/gruvbox_dark/Play.svg" id="40_r64w8"]
 [ext_resource type="Texture2D" uid="uid://bacam24xp4hkp" path="res://icons/gruvbox_dark/Node3D.svg" id="41_gyw8v"]
+[ext_resource type="Texture2D" uid="uid://c3o5bcurf3o2l" path="res://icons/gruvbox_dark/ActionCut.svg" id="41_upuu3"]
 [ext_resource type="Texture2D" uid="uid://bux3llfwdew32" path="res://icons/gruvbox_dark/NodeDisabled.svg" id="42_rm4ki"]
+[ext_resource type="Texture2D" uid="uid://sf4qwughobra" path="res://icons/gruvbox_dark/ActionPaste.svg" id="42_u8o38"]
 [ext_resource type="Texture2D" uid="uid://b3ci71gegl7pc" path="res://icons/gruvbox_dark/grid_toggle.svg" id="42_vnhfx"]
+[ext_resource type="Texture2D" uid="uid://51nt155y7k1m" path="res://icons/gruvbox_dark/Anchor.svg" id="43_3q4nb"]
 [ext_resource type="Texture2D" uid="uid://cjhefaftqhahe" path="res://icons/gruvbox_dark/grid_layout.svg" id="43_sdf3g"]
+[ext_resource type="Texture2D" uid="uid://buicbuxevdttl" path="res://icons/gruvbox_dark/AnimatableBody2D.svg" id="44_gquq1"]
 [ext_resource type="Texture2D" uid="uid://w6l6vhsdpjvf" path="res://icons/gruvbox_dark/grid_minimap.svg" id="44_xbnec"]
 [ext_resource type="Texture2D" uid="uid://45jaarn53wof" path="res://icons/gruvbox_dark/grid_snap.svg" id="45_hqbl2"]
+[ext_resource type="Texture2D" uid="uid://cpe0u3ljmrhts" path="res://icons/gruvbox_dark/AnimatableBody3D.svg" id="45_whwfo"]
+[ext_resource type="Texture2D" uid="uid://b7xro2cis2xsl" path="res://icons/gruvbox_dark/Object.svg" id="46_3s10b"]
+[ext_resource type="Texture2D" uid="uid://c0cmw11gdsmc1" path="res://icons/gruvbox_dark/AnimatedSprite2D.svg" id="46_04ovc"]
 [ext_resource type="Texture2D" uid="uid://d204kb17puolb" path="res://icons/gruvbox_dark/zoom_more.svg" id="46_taur3"]
 [ext_resource type="Texture2D" uid="uid://jbee70ey3mx8" path="res://icons/gruvbox_dark/zoom_less.svg" id="47_df6m3"]
+[ext_resource type="Texture2D" uid="uid://doit2pxw3b2mx" path="res://icons/gruvbox_dark/ObjectDisabled.svg" id="47_m4u4u"]
+[ext_resource type="Texture2D" uid="uid://b5gih20fr0atx" path="res://icons/gruvbox_dark/AnimatedSprite3D.svg" id="47_wc2i4"]
+[ext_resource type="Texture2D" uid="uid://bhw03chwccjyi" path="res://icons/gruvbox_dark/AnimatedTexture.svg" id="48_73gee"]
+[ext_resource type="Texture2D" uid="uid://c4ha8dff47dwf" path="res://icons/gruvbox_dark/ToolSelect.svg" id="48_oop8r"]
 [ext_resource type="Texture2D" uid="uid://jbxu8vodhs7f" path="res://icons/gruvbox_dark/zoom_reset.svg" id="48_qf5si"]
+[ext_resource type="Texture2D" uid="uid://cu4anuavnk8dw" path="res://icons/gruvbox_dark/TextEditorPlay.svg" id="49_4pmxt"]
+[ext_resource type="Texture2D" uid="uid://d3ugubw4spdcq" path="res://icons/gruvbox_dark/Animation.svg" id="49_xrth1"]
+[ext_resource type="Texture2D" uid="uid://cma3us063e1mb" path="res://icons/gruvbox_dark/AnimationFilter.svg" id="50_j8ydn"]
+[ext_resource type="Texture2D" uid="uid://cecjesia0y7d4" path="res://icons/gruvbox_dark/AnimationLibrary.svg" id="51_mo8yp"]
+[ext_resource type="Texture2D" uid="uid://bv0qimoyb8jrb" path="res://icons/gruvbox_dark/AnimationMixer.svg" id="52_fj7kf"]
+[ext_resource type="Texture2D" uid="uid://cb7pi6nxi6j3r" path="res://icons/gruvbox_dark/AnimationPlayer.svg" id="53_8addk"]
+[ext_resource type="Texture2D" uid="uid://cfrxtopiv16ly" path="res://icons/gruvbox_dark/AnimationTrackGroup.svg" id="54_d86fn"]
+[ext_resource type="Texture2D" uid="uid://du8pn4ykwq333" path="res://icons/gruvbox_dark/AnimationTrackList.svg" id="55_do05u"]
+[ext_resource type="Texture2D" uid="uid://dlsy4bd350u23" path="res://icons/gruvbox_dark/AnimationTree.svg" id="56_i4vnt"]
+[ext_resource type="Texture2D" uid="uid://bkya57jwrxnq5" path="res://icons/gruvbox_dark/Area2D.svg" id="57_fkj53"]
+[ext_resource type="Texture2D" uid="uid://bs30qc6ecq831" path="res://icons/gruvbox_dark/Area3D.svg" id="58_aurua"]
+[ext_resource type="Texture2D" uid="uid://c3d6v0ablwpaa" path="res://icons/gruvbox_dark/Array.svg" id="59_r2i4c"]
+[ext_resource type="Texture2D" uid="uid://dbyhtgxgu118f" path="res://icons/gruvbox_dark/ArrayMesh.svg" id="60_y4og6"]
+[ext_resource type="Texture2D" uid="uid://b64uttnfa2rsw" path="res://icons/gruvbox_dark/ArrayOccluder3D.svg" id="61_1r05f"]
+[ext_resource type="Texture2D" uid="uid://dynyq52c5nxqf" path="res://icons/gruvbox_dark/ArrowDown.svg" id="62_e5d4p"]
+[ext_resource type="Texture2D" uid="uid://bypxqjgrc5cuo" path="res://icons/gruvbox_dark/ArrowLeft.svg" id="63_kydmt"]
+[ext_resource type="Texture2D" uid="uid://ccjd0ndnr4qsi" path="res://icons/gruvbox_dark/ArrowRight.svg" id="64_llxb8"]
+[ext_resource type="Texture2D" uid="uid://drdb45civrsp1" path="res://icons/gruvbox_dark/AspectRatioContainer.svg" id="66_e3x7k"]
+[ext_resource type="Texture2D" uid="uid://b3xue1f3kwyu3" path="res://icons/gruvbox_dark/AssetLib.svg" id="67_d7iyx"]
+[ext_resource type="Texture2D" uid="uid://ba3j0c07cjw8q" path="res://icons/gruvbox_dark/AtlasTexture.svg" id="68_3bfeb"]
+[ext_resource type="Texture2D" uid="uid://cuuc14iump1yx" path="res://icons/gruvbox_dark/AudioBusBypass.svg" id="69_c463i"]
+[ext_resource type="Texture2D" uid="uid://cun6efvvmadpg" path="res://icons/gruvbox_dark/AudioBusLayout.svg" id="70_02nji"]
+[ext_resource type="Texture2D" uid="uid://b0bk0ad5a71gv" path="res://icons/gruvbox_dark/AudioBusMute.svg" id="71_2l3wt"]
+[ext_resource type="Texture2D" uid="uid://cybcjebmkpjxe" path="res://icons/gruvbox_dark/AudioBusSolo.svg" id="72_r4ecc"]
+[ext_resource type="Texture2D" uid="uid://da786dfe7omo7" path="res://icons/gruvbox_dark/AudioListener2D.svg" id="73_4yobu"]
+[ext_resource type="Texture2D" uid="uid://b00cnoyqqchtf" path="res://icons/gruvbox_dark/AudioListener3D.svg" id="74_u7ypu"]
+[ext_resource type="Texture2D" uid="uid://bqepoo8dj40mf" path="res://icons/gruvbox_dark/AudioStream.svg" id="75_mvdwx"]
+[ext_resource type="Texture2D" uid="uid://do5fbgpw12ihg" path="res://icons/gruvbox_dark/AudioStreamGenerator.svg" id="76_wclj2"]
+[ext_resource type="Texture2D" uid="uid://oq2cook8xh1c" path="res://icons/gruvbox_dark/AudioStreamMP3.svg" id="77_vly4d"]
+[ext_resource type="Texture2D" uid="uid://bucvk46ytw1e4" path="res://icons/gruvbox_dark/AudioStreamMicrophone.svg" id="78_kwv32"]
+[ext_resource type="Texture2D" uid="uid://d333s3r3y0n73" path="res://icons/gruvbox_dark/Save.svg" id="79_8bykh"]
+[ext_resource type="Texture2D" uid="uid://badh74knse6pe" path="res://icons/gruvbox_dark/AudioStreamPlayer.svg" id="79_ox663"]
+[ext_resource type="Texture2D" uid="uid://4c75kigbjmwo" path="res://icons/gruvbox_dark/AudioStreamPlayer2D.svg" id="80_gthi4"]
+[ext_resource type="Texture2D" uid="uid://cyoj3f8ai04kj" path="res://icons/gruvbox_dark/AudioStreamPlayer3D.svg" id="81_fp6ri"]
+[ext_resource type="Texture2D" uid="uid://cjsrttc05fnxo" path="res://icons/gruvbox_dark/AudioStreamPolyphonic.svg" id="82_w0ech"]
+[ext_resource type="Texture2D" uid="uid://dj0pi4555jg02" path="res://icons/gruvbox_dark/AudioStreamRandomizer.svg" id="83_66w1n"]
+[ext_resource type="Texture2D" uid="uid://ctu8iocnjtty4" path="res://icons/gruvbox_dark/AutoEnd.svg" id="84_uu5no"]
+[ext_resource type="Texture2D" uid="uid://bf02eofan65jn" path="res://icons/gruvbox_dark/AutoKey.svg" id="85_1lw3r"]
+[ext_resource type="Texture2D" uid="uid://c2h0piy08r1th" path="res://icons/gruvbox_dark/AutoPlay.svg" id="86_wgijk"]
+[ext_resource type="Texture2D" uid="uid://ckm2rdulkavvo" path="res://icons/gruvbox_dark/AutoTriangle.svg" id="87_4jeqm"]
+[ext_resource type="Texture2D" uid="uid://btokwrggg8pfj" path="res://icons/gruvbox_dark/Back.svg" id="88_x8wj1"]
+[ext_resource type="Texture2D" uid="uid://bf3yqe8p8dwdg" path="res://icons/gruvbox_dark/BackBufferCopy.svg" id="89_u4a0i"]
+[ext_resource type="Texture2D" uid="uid://blws2cmr0aywv" path="res://icons/gruvbox_dark/Bake.svg" id="90_5kvj6"]
+[ext_resource type="Texture2D" uid="uid://c5q0r6km33cv0" path="res://icons/gruvbox_dark/BaseButton.svg" id="91_7eauy"]
+[ext_resource type="Texture2D" uid="uid://dqcsluxge3id2" path="res://icons/gruvbox_dark/Basis.svg" id="92_gxvm0"]
+[ext_resource type="Texture2D" uid="uid://i5o7t7oa6mji" path="res://icons/gruvbox_dark/BezierHandlesBalanced.svg" id="93_eq8hr"]
+[ext_resource type="Texture2D" uid="uid://dh1pl5mx2hgvi" path="res://icons/gruvbox_dark/BezierHandlesFree.svg" id="94_tlb2j"]
+[ext_resource type="Texture2D" uid="uid://xveqq368ojex" path="res://icons/gruvbox_dark/BezierHandlesLinear.svg" id="95_bind1"]
+[ext_resource type="Texture2D" uid="uid://daef6wff8t1gn" path="res://icons/gruvbox_dark/BezierHandlesMirror.svg" id="96_sk7oq"]
+[ext_resource type="Texture2D" uid="uid://b5accv0hp3xql" path="res://icons/gruvbox_dark/BitMap.svg" id="97_onvmg"]
+[ext_resource type="Texture2D" uid="uid://djdir4fhvkj24" path="res://icons/gruvbox_dark/Blend.svg" id="98_7uout"]
+[ext_resource type="Texture2D" uid="uid://dkgwbhyxc3cin" path="res://icons/gruvbox_dark/Bone.svg" id="99_c4k4k"]
+[ext_resource type="Texture2D" uid="uid://buty33gjv0yup" path="res://icons/gruvbox_dark/Bone2D.svg" id="100_hx1lq"]
+[ext_resource type="Texture2D" uid="uid://bp5a3b0owjq00" path="res://icons/gruvbox_dark/BoneAttachment3D.svg" id="101_1bwun"]
+[ext_resource type="Texture2D" uid="uid://bpmtpoin33t2c" path="res://icons/gruvbox_dark/BoneMapHumanBody.svg" id="102_tl6uj"]
+[ext_resource type="Texture2D" uid="uid://du0up8jfplcan" path="res://icons/gruvbox_dark/BoneMapHumanFace.svg" id="103_4o31f"]
+[ext_resource type="Texture2D" uid="uid://dva5tx5847yv8" path="res://icons/gruvbox_dark/BoneMapHumanLeftHand.svg" id="104_2fcn7"]
+[ext_resource type="Texture2D" uid="uid://bg8x16t0a2xbf" path="res://icons/gruvbox_dark/BoneMapHumanRightHand.svg" id="105_rn21x"]
+[ext_resource type="Texture2D" uid="uid://dxu8c44fdq77p" path="res://icons/gruvbox_dark/BoneMapperHandle.svg" id="106_hw5k4"]
+[ext_resource type="Texture2D" uid="uid://deepsgss4vbjl" path="res://icons/gruvbox_dark/BoneMapperHandleCircle.svg" id="107_yxgmo"]
+[ext_resource type="Texture2D" uid="uid://k3247sqs7qiy" path="res://icons/gruvbox_dark/BoneMapperHandleSelected.svg" id="108_uxfdw"]
+[ext_resource type="Texture2D" uid="uid://brkxuobsm86tb" path="res://icons/gruvbox_dark/BoxContainer.svg" id="109_eybm2"]
+[ext_resource type="Texture2D" uid="uid://cf20ck3pm4h72" path="res://icons/gruvbox_dark/BoxMesh.svg" id="110_yjeq4"]
+[ext_resource type="Texture2D" uid="uid://bq3f78nwvboeu" path="res://icons/gruvbox_dark/BoxOccluder3D.svg" id="111_nsihy"]
+[ext_resource type="Texture2D" uid="uid://cs3jxn0xsawuc" path="res://icons/gruvbox_dark/BoxShape3D.svg" id="112_gem5y"]
+[ext_resource type="Texture2D" uid="uid://dlavfd48dufa2" path="res://icons/gruvbox_dark/Breakpoint.svg" id="113_cib8p"]
+[ext_resource type="Texture2D" uid="uid://dkgy8x7jibdm4" path="res://icons/gruvbox_dark/Bucket.svg" id="114_vy03m"]
+[ext_resource type="Texture2D" uid="uid://bdukek5ux4ikm" path="res://icons/gruvbox_dark/BusVuActive.svg" id="115_l1a32"]
+[ext_resource type="Texture2D" uid="uid://cmiaom6s36ej0" path="res://icons/gruvbox_dark/BusVuFrozen.svg" id="116_hmug1"]
+[ext_resource type="Texture2D" uid="uid://d2iasi63x5rqf" path="res://icons/gruvbox_dark/Button.svg" id="117_ycyfr"]
+[ext_resource type="Texture2D" uid="uid://30gm30phb01f" path="res://icons/gruvbox_dark/ButtonGroup.svg" id="118_6s6wt"]
+[ext_resource type="Texture2D" uid="uid://byhq51bjppvhq" path="res://icons/gruvbox_dark/CPUParticles2D.svg" id="119_r3wbm"]
+[ext_resource type="Texture2D" uid="uid://csh2qxk6gjtj1" path="res://icons/gruvbox_dark/CPUParticles3D.svg" id="120_h7sqm"]
+[ext_resource type="Texture2D" uid="uid://rttjdp6qoif0" path="res://icons/gruvbox_dark/Callable.svg" id="121_von44"]
+[ext_resource type="Texture2D" uid="uid://dcuxf4myn6j4f" path="res://icons/gruvbox_dark/Camera2D.svg" id="122_6pl3w"]
+[ext_resource type="Texture2D" uid="uid://5elmnl3sekxh" path="res://icons/gruvbox_dark/Camera3D.svg" id="123_v30gk"]
+[ext_resource type="Texture2D" uid="uid://bk8aobbahmq1b" path="res://icons/gruvbox_dark/CameraAttributes.svg" id="124_kkv0q"]
+[ext_resource type="Texture2D" uid="uid://b6d8cln5he7rp" path="res://icons/gruvbox_dark/CameraAttributesPhysical.svg" id="125_42de5"]
+[ext_resource type="Texture2D" uid="uid://bqwh6wd6gb3vr" path="res://icons/gruvbox_dark/CameraAttributesPractical.svg" id="126_a07bd"]
+[ext_resource type="Texture2D" uid="uid://crm8ap0exk1q3" path="res://icons/gruvbox_dark/CameraTexture.svg" id="127_qxof7"]
+[ext_resource type="Texture2D" uid="uid://c4w3b58m3r1i7" path="res://icons/gruvbox_dark/CanvasGroup.svg" id="128_6yk6h"]
+[ext_resource type="Texture2D" uid="uid://dmfmddjveponf" path="res://icons/gruvbox_dark/CanvasItemMaterial.svg" id="130_bxclo"]
+[ext_resource type="Texture2D" uid="uid://dbfo6qiv6i1ut" path="res://icons/gruvbox_dark/CanvasLayer.svg" id="131_mp4gi"]
+[ext_resource type="Texture2D" uid="uid://bfsmjj5frr3t1" path="res://icons/gruvbox_dark/CanvasModulate.svg" id="132_g47uw"]
+[ext_resource type="Texture2D" uid="uid://bdlrdye8eq66v" path="res://icons/gruvbox_dark/CanvasTexture.svg" id="133_rhpte"]
+[ext_resource type="Texture2D" uid="uid://dloqi16nl4j3m" path="res://icons/gruvbox_dark/CapsuleMesh.svg" id="134_0khsr"]
+[ext_resource type="Texture2D" uid="uid://tysqua4l1onw" path="res://icons/gruvbox_dark/CapsuleShape2D.svg" id="135_nshxs"]
+[ext_resource type="Texture2D" uid="uid://dgwyw0swn2pu5" path="res://icons/gruvbox_dark/CapsuleShape3D.svg" id="136_0jvih"]
+[ext_resource type="Texture2D" uid="uid://bu0epmrkhdib6" path="res://icons/gruvbox_dark/CenterContainer.svg" id="137_gerie"]
+[ext_resource type="Texture2D" uid="uid://wwqfdouimqdm" path="res://icons/gruvbox_dark/CenterView.svg" id="138_6poa1"]
+[ext_resource type="Texture2D" uid="uid://b3xxkyblfrfdi" path="res://icons/gruvbox_dark/CharacterBody2D.svg" id="139_cnb5d"]
+[ext_resource type="Texture2D" uid="uid://btxo4x15uvoqo" path="res://icons/gruvbox_dark/CharacterBody3D.svg" id="140_4733k"]
+[ext_resource type="Texture2D" uid="uid://c4opdvlc23lg2" path="res://icons/gruvbox_dark/bool.svg" id="140_ay6s4"]
+[ext_resource type="Texture2D" uid="uid://cfd7yj5jfnybt" path="res://icons/gruvbox_dark/float.svg" id="141_ci0fw"]
+[ext_resource type="Texture2D" uid="uid://dy6w2f6my16n" path="res://icons/gruvbox_dark/CheckBox.svg" id="141_jmulw"]
+[ext_resource type="Texture2D" uid="uid://5jm7be3o2tkw" path="res://icons/gruvbox_dark/int.svg" id="142_1w2ae"]
+[ext_resource type="Texture2D" uid="uid://chfkier5q65ib" path="res://icons/gruvbox_dark/CheckButton.svg" id="142_ebrfg"]
+[ext_resource type="Texture2D" uid="uid://81x1j0x35t03" path="res://icons/gruvbox_dark/uint.svg" id="143_f53sh"]
+[ext_resource type="Texture2D" uid="uid://djhm120mu40ik" path="res://icons/gruvbox_dark/Checkerboard.svg" id="143_t6omp"]
+[ext_resource type="Texture2D" uid="uid://dxx00qpe12mec" path="res://icons/gruvbox_dark/CircleShape2D.svg" id="144_n3yo1"]
+[ext_resource type="Texture2D" uid="uid://denm7b4haxdft" path="res://icons/gruvbox_dark/ClassList.svg" id="145_1k26a"]
+[ext_resource type="Texture2D" uid="uid://bcshmgteuoa8r" path="res://icons/gruvbox_dark/Clear.svg" id="146_inw7x"]
+[ext_resource type="Texture2D" uid="uid://dkan4842cyp5t" path="res://icons/gruvbox_dark/Close.svg" id="147_7md5p"]
+[ext_resource type="Texture2D" uid="uid://d2bxffpb43x7l" path="res://icons/gruvbox_dark/CodeEdit.svg" id="148_q5vlb"]
+[ext_resource type="Texture2D" uid="uid://xxwpm70e4dvw" path="res://icons/gruvbox_dark/CodeFoldDownArrow.svg" id="149_f08nl"]
+[ext_resource type="Texture2D" uid="uid://c674bai20u0yx" path="res://icons/gruvbox_dark/CodeFoldedRightArrow.svg" id="150_rsh4y"]
+[ext_resource type="Texture2D" uid="uid://b13w3h81yd7nl" path="res://icons/gruvbox_dark/CodeHighlighter.svg" id="151_m5h3o"]
+[ext_resource type="Texture2D" uid="uid://bf04cusahmk2o" path="res://icons/gruvbox_dark/CodeRegionFoldedRightArrow.svg" id="152_gx7oo"]
+[ext_resource type="Texture2D" uid="uid://hegt547q8ls3" path="res://icons/gruvbox_dark/Collapse.svg" id="153_e1j0t"]
+[ext_resource type="Texture2D" uid="uid://cdqkn76yttn8d" path="res://icons/gruvbox_dark/CollapseTree.svg" id="154_iqxsv"]
+[ext_resource type="Texture2D" uid="uid://eiauyvyp30su" path="res://icons/gruvbox_dark/CollisionPolygon2D.svg" id="155_f1bu5"]
+[ext_resource type="Texture2D" uid="uid://xkopsdmr1gl6" path="res://icons/gruvbox_dark/CollisionPolygon3D.svg" id="156_3h3x8"]
+[ext_resource type="Texture2D" uid="uid://bi6uvsq37lgvh" path="res://icons/gruvbox_dark/CollisionShape2D.svg" id="157_0nmac"]
+[ext_resource type="Texture2D" uid="uid://du7foqefdg6h5" path="res://icons/gruvbox_dark/CollisionShape3D.svg" id="158_8rudv"]
+[ext_resource type="Texture2D" uid="uid://yg5nqjx8mmg7" path="res://icons/gruvbox_dark/Color.svg" id="159_et8y3"]
+[ext_resource type="Texture2D" uid="uid://dx880xnbj7ecb" path="res://icons/gruvbox_dark/ColorPick.svg" id="160_1cnbq"]
+[ext_resource type="Texture2D" uid="uid://bwtygyphs8men" path="res://icons/gruvbox_dark/ColorPicker.svg" id="161_dr1rw"]
+[ext_resource type="Texture2D" uid="uid://lqathpl643lf" path="res://icons/gruvbox_dark/ColorPickerBarArrow.svg" id="162_r87wd"]
+[ext_resource type="Texture2D" uid="uid://n5ef8rq7q8m" path="res://icons/gruvbox_dark/ColorPickerButton.svg" id="163_ooavk"]
+[ext_resource type="Texture2D" uid="uid://bsuwjcww0i8xu" path="res://icons/gruvbox_dark/ColorRect.svg" id="164_muqa8"]
+[ext_resource type="Texture2D" uid="uid://ci8kyi6cnq5j3" path="res://icons/gruvbox_dark/ColorTrackVu.svg" id="165_hd06l"]
+[ext_resource type="Texture2D" uid="uid://cfdnk8eacpvfo" path="res://icons/gruvbox_dark/CombineLines.svg" id="166_t1up3"]
+[ext_resource type="Texture2D" uid="uid://cubi65rb4hjt3" path="res://icons/gruvbox_dark/CompressedTexture2D.svg" id="167_c3vbb"]
+[ext_resource type="Texture2D" uid="uid://d0rrly4gycgwq" path="res://icons/gruvbox_dark/CompressedTexture3D.svg" id="168_04bau"]
+[ext_resource type="Texture2D" uid="uid://dqfgjn1k2shku" path="res://icons/gruvbox_dark/ConcavePolygonShape2D.svg" id="169_2u70c"]
+[ext_resource type="Texture2D" uid="uid://deefwg0jmv8yw" path="res://icons/gruvbox_dark/ConcavePolygonShape3D.svg" id="170_v5aqi"]
+[ext_resource type="Texture2D" uid="uid://bvyus0ek61yaj" path="res://icons/gruvbox_dark/ConeTwistJoint3D.svg" id="171_a1e4g"]
+[ext_resource type="Texture2D" uid="uid://bwttvykvocxqn" path="res://icons/gruvbox_dark/ConfirmationDialog.svg" id="172_rwnqp"]
+[ext_resource type="Texture2D" uid="uid://n1vvhnakmcqq" path="res://icons/gruvbox_dark/Container.svg" id="173_33amh"]
+[ext_resource type="Texture2D" uid="uid://cqwbc54hhxp45" path="res://icons/gruvbox_dark/ContainerLayout.svg" id="174_3uiyv"]
+[ext_resource type="Texture2D" uid="uid://c5jtx42vtcsma" path="res://icons/gruvbox_dark/Control.svg" id="175_t1g4b"]
+[ext_resource type="Texture2D" uid="uid://cvmatndnprbmf" path="res://icons/gruvbox_dark/ControlAlignBottomLeft.svg" id="176_okt5a"]
+[ext_resource type="Texture2D" uid="uid://0pftxqbu1ewg" path="res://icons/gruvbox_dark/ControlAlignBottomRight.svg" id="177_yonp0"]
+[ext_resource type="Texture2D" uid="uid://bj2uqagdh6bbp" path="res://icons/gruvbox_dark/ControlAlignBottomWide.svg" id="178_y6ail"]
+[ext_resource type="Texture2D" uid="uid://dbaflrlru5xl2" path="res://icons/gruvbox_dark/ControlAlignCenter.svg" id="179_7aos2"]
+[ext_resource type="Texture2D" uid="uid://cnfm8iuy0yn4v" path="res://icons/gruvbox_dark/ControlAlignCenterBottom.svg" id="180_hk1t0"]
+[ext_resource type="Texture2D" uid="uid://dr38bh44pp5sd" path="res://icons/gruvbox_dark/ControlAlignCenterLeft.svg" id="181_nwsr5"]
+[ext_resource type="Texture2D" uid="uid://u02on0oy11vs" path="res://icons/gruvbox_dark/ControlAlignCenterRight.svg" id="182_rrtla"]
+[ext_resource type="Texture2D" uid="uid://gvobvi2qm4ss" path="res://icons/gruvbox_dark/ControlAlignCenterTop.svg" id="183_meu5u"]
+[ext_resource type="Texture2D" uid="uid://cmefg5hy2r4xk" path="res://icons/gruvbox_dark/ControlAlignFullRect.svg" id="184_3x5vg"]
+[ext_resource type="Texture2D" uid="uid://cf2w7hxkgfad5" path="res://icons/gruvbox_dark/ControlAlignHCenterWide.svg" id="185_ppa2v"]
+[ext_resource type="Texture2D" uid="uid://c5854ta6trldo" path="res://icons/gruvbox_dark/ControlAlignLeftWide.svg" id="186_sx2ta"]
+[ext_resource type="Texture2D" uid="uid://b3orn3e3jum4n" path="res://icons/gruvbox_dark/ControlAlignRightWide.svg" id="187_ypmth"]
+[ext_resource type="Texture2D" uid="uid://c07gj32vbu8kr" path="res://icons/gruvbox_dark/ControlAlignTopLeft.svg" id="188_gulmj"]
+[ext_resource type="Texture2D" uid="uid://65f4ucxbv7hj" path="res://icons/gruvbox_dark/ControlAlignTopRight.svg" id="189_vjvo1"]
+[ext_resource type="Texture2D" uid="uid://c1n082egxekks" path="res://icons/gruvbox_dark/ControlAlignTopWide.svg" id="190_you3j"]
+[ext_resource type="Texture2D" uid="uid://dkh7di8wkkqej" path="res://icons/gruvbox_dark/ControlAlignVCenterWide.svg" id="191_7wb2b"]
+[ext_resource type="Texture2D" uid="uid://b40rk6aunntv8" path="res://icons/gruvbox_dark/ControlLayout.svg" id="192_fd2uh"]
+[ext_resource type="Texture2D" uid="uid://dvgaa7rma5033" path="res://icons/gruvbox_dark/ConvexPolygonShape2D.svg" id="193_weion"]
+[ext_resource type="Texture2D" uid="uid://jqxsu8p8fa0u" path="res://icons/gruvbox_dark/ConvexPolygonShape3D.svg" id="194_ohw32"]
+[ext_resource type="Texture2D" uid="uid://dxyv0mkpygjsq" path="res://icons/gruvbox_dark/CopyNodePath.svg" id="195_a05lm"]
+[ext_resource type="Texture2D" uid="uid://hccgr0q6legd" path="res://icons/gruvbox_dark/CreateNewSceneFrom.svg" id="196_ehiuv"]
+[ext_resource type="Texture2D" uid="uid://cawxa4gd7rvx8" path="res://icons/gruvbox_dark/CryptoKey.svg" id="197_dawj5"]
+[ext_resource type="Texture2D" uid="uid://dhwm00t2ibuo7" path="res://icons/gruvbox_dark/Cubemap.svg" id="198_ajpgu"]
+[ext_resource type="Texture2D" uid="uid://vsrk2bl6oik2" path="res://icons/gruvbox_dark/CubemapArray.svg" id="199_wq1go"]
+[ext_resource type="Texture2D" uid="uid://cshmgbrx60k2a" path="res://icons/gruvbox_dark/Curve.svg" id="200_bgvim"]
+[ext_resource type="Texture2D" uid="uid://closuow4ws6st" path="res://icons/gruvbox_dark/Curve2D.svg" id="201_fkv4l"]
+[ext_resource type="Texture2D" uid="uid://c85jmlj0kyr4x" path="res://icons/gruvbox_dark/Curve3D.svg" id="202_gmm1f"]
+[ext_resource type="Texture2D" uid="uid://cfsl63agjvd21" path="res://icons/gruvbox_dark/CurveClose.svg" id="203_0gnsl"]
+[ext_resource type="Texture2D" uid="uid://bipwxadrlxaax" path="res://icons/gruvbox_dark/CurveConstant.svg" id="204_o2ull"]
+[ext_resource type="Texture2D" uid="uid://c0516xe25n5t4" path="res://icons/gruvbox_dark/CurveCreate.svg" id="205_csvvo"]
+[ext_resource type="Texture2D" uid="uid://bbg2rpd87qhhd" path="res://icons/gruvbox_dark/CurveCurve.svg" id="206_uv1k2"]
+[ext_resource type="Texture2D" uid="uid://bomvdx6v03u6q" path="res://icons/gruvbox_dark/CurveDelete.svg" id="207_vv4q8"]
+[ext_resource type="Texture2D" uid="uid://0ulrpm51rqsu" path="res://icons/gruvbox_dark/CurveEdit.svg" id="208_pn8xb"]
+[ext_resource type="Texture2D" uid="uid://bjrei8k8m2i52" path="res://icons/gruvbox_dark/CurveIn.svg" id="209_wnm6u"]
+[ext_resource type="Texture2D" uid="uid://bdmjp1ciewgn3" path="res://icons/gruvbox_dark/CurveOut.svg" id="210_xf2g1"]
+[ext_resource type="Texture2D" uid="uid://b1i6dp8pc1hi" path="res://icons/gruvbox_dark/CurveLinear.svg" id="211_lsg6q"]
+[ext_resource type="Texture2D" uid="uid://cc3o3tcu8puto" path="res://icons/gruvbox_dark/CurveOutIn.svg" id="212_2q0bo"]
+[ext_resource type="Texture2D" uid="uid://d01wuyrr5nib" path="res://icons/gruvbox_dark/CurveTexture.svg" id="213_q7f7c"]
+[ext_resource type="Texture2D" uid="uid://chrbrtpjds5g5" path="res://icons/gruvbox_dark/CurveTilt.svg" id="214_tjjw1"]
+[ext_resource type="Texture2D" uid="uid://d4k33od0ufi37" path="res://icons/gruvbox_dark/CurveXYZTexture.svg" id="215_th4lx"]
+[ext_resource type="Texture2D" uid="uid://oyamhvboblww" path="res://icons/gruvbox_dark/CylinderMesh.svg" id="216_67ggn"]
+[ext_resource type="Texture2D" uid="uid://c1acoimhale5w" path="res://icons/gruvbox_dark/CylinderShape3D.svg" id="217_n76oh"]
+[ext_resource type="Texture2D" uid="uid://tpcssno52038" path="res://icons/gruvbox_dark/DampedSpringJoint2D.svg" id="218_cwi0l"]
+[ext_resource type="Texture2D" uid="uid://dhrt5ljb5udiy" path="res://icons/gruvbox_dark/Debug.svg" id="219_vbygh"]
+[ext_resource type="Texture2D" uid="uid://clw8wiw43qk3v" path="res://icons/gruvbox_dark/DebugContinue.svg" id="220_t5j4t"]
+[ext_resource type="Texture2D" uid="uid://beto3extwxr2a" path="res://icons/gruvbox_dark/DebugNext.svg" id="221_x7v7d"]
+[ext_resource type="Texture2D" uid="uid://c36jsfwcb7bb" path="res://icons/gruvbox_dark/DebugSkipBreakpointsOff.svg" id="222_iwv05"]
+[ext_resource type="Texture2D" uid="uid://bsy6lsvok2x43" path="res://icons/gruvbox_dark/DebugSkipBreakpointsOn.svg" id="223_m481k"]
+[ext_resource type="Texture2D" uid="uid://cpjsrpendjnlw" path="res://icons/gruvbox_dark/DebugStep.svg" id="224_630uf"]
+[ext_resource type="Texture2D" uid="uid://bcyqxyqxsay01" path="res://icons/gruvbox_dark/Decal.svg" id="225_2intt"]
+[ext_resource type="Texture2D" uid="uid://ceo34j2ov7riy" path="res://icons/gruvbox_dark/DefaultProjectIcon.svg" id="226_5go44"]
+[ext_resource type="Texture2D" uid="uid://ddievb1n2bguc" path="res://icons/gruvbox_dark/Dictionary.svg" id="227_kwt2y"]
+[ext_resource type="Texture2D" uid="uid://cljo5yovktwfw" path="res://icons/gruvbox_dark/DirAccess.svg" id="228_mepmb"]
+[ext_resource type="Texture2D" uid="uid://l703tlk448se" path="res://icons/gruvbox_dark/DirectionalLight2D.svg" id="229_v08l5"]
+[ext_resource type="Texture2D" uid="uid://drtytxh8gbml7" path="res://icons/gruvbox_dark/DirectionalLight3D.svg" id="230_dpmjy"]
+[ext_resource type="Texture2D" uid="uid://sn3noba3fgs1" path="res://icons/gruvbox_dark/DistractionFree.svg" id="231_200hh"]
+[ext_resource type="Texture2D" uid="uid://hcfewulfk17h" path="res://icons/gruvbox_dark/Duplicate.svg" id="232_taggd"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_ua67j"]
 content_margin_left = 8.0
@@ -142,19 +345,27 @@ content_margin_right = 8.0
 
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_hwxgl"]
 content_margin_left = 8.0
+content_margin_top = 2.0
 content_margin_right = 8.0
+content_margin_bottom = 2.0
 
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_4nl4y"]
 content_margin_left = 8.0
+content_margin_top = 2.0
 content_margin_right = 8.0
+content_margin_bottom = 2.0
 
-[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_vfyad"]
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_nb5qe"]
 content_margin_left = 8.0
+content_margin_top = 2.0
 content_margin_right = 8.0
+content_margin_bottom = 2.0
 
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_me26a"]
 content_margin_left = 8.0
+content_margin_top = 2.0
 content_margin_right = 8.0
+content_margin_bottom = 2.0
 
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_c3jo3"]
 
@@ -273,21 +484,21 @@ content_margin_left = 5.0
 content_margin_top = 4.0
 content_margin_right = 5.0
 content_margin_bottom = 4.0
-bg_color = Color(1, 1, 1, 0.0784314)
+bg_color = Color(0.235294, 0.219608, 0.211765, 1)
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_sxnkh"]
 content_margin_left = 5.0
 content_margin_top = 4.0
 content_margin_right = 5.0
 content_margin_bottom = 4.0
-bg_color = Color(1, 1, 1, 0)
+bg_color = Color(0.921569, 0.858824, 0.698039, 0)
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_1pq5m"]
 content_margin_left = 5.0
 content_margin_top = 4.0
 content_margin_right = 5.0
 content_margin_bottom = 4.0
-bg_color = Color(1, 1, 1, 0.0784314)
+bg_color = Color(0.921569, 0.858824, 0.698039, 0.0784314)
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_a4v87"]
 content_margin_left = 5.0
@@ -409,10 +620,10 @@ border_width_bottom = 3
 border_color = Color(0.235294, 0.219608, 0.211765, 1)
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_p42kr"]
-bg_color = Color(0.572549, 0.513726, 0.454902, 1)
+bg_color = Color(0.741176, 0.682353, 0.576471, 1)
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_8xjp3"]
-bg_color = Color(0.741176, 0.682353, 0.576471, 1)
+bg_color = Color(0.835294, 0.768627, 0.631373, 1)
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_wa6j1"]
 bg_color = Color(0.572549, 0.513726, 0.454902, 0)
@@ -734,10 +945,10 @@ border_width_right = 3
 border_color = Color(0.235294, 0.219608, 0.211765, 1)
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_eapgx"]
-bg_color = Color(0.572549, 0.513726, 0.454902, 1)
+bg_color = Color(0.741176, 0.682353, 0.576471, 1)
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_qpipq"]
-bg_color = Color(0.741176, 0.682353, 0.576471, 1)
+bg_color = Color(0.835294, 0.768627, 0.631373, 1)
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_iwbsi"]
 bg_color = Color(0.572549, 0.513726, 0.454902, 0)
@@ -750,20 +961,21 @@ size = Vector2(0, 0)
 
 [resource]
 default_font_size = 12
+AcceptDialog/constants/buttons_separation = 10
 AcceptDialog/styles/panel = SubResource("StyleBoxFlat_ua67j")
 AssetLib/colors/status_color = Color(0.921569, 0.858824, 0.698039, 1)
 AssetLib/icons/AssetLib = ExtResource("9_le3p3")
-Button/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
+Button/colors/font_color = Color(0.835294, 0.768627, 0.631373, 1)
 Button/colors/font_disabled_color = Color(0.486275, 0.435294, 0.392157, 1)
 Button/colors/font_focus_color = Color(0.921569, 0.858824, 0.698039, 1)
-Button/colors/font_hover_color = Color(0.741176, 0.682353, 0.576471, 1)
-Button/colors/font_hover_pressed_color = Color(0.513726, 0.647059, 0.596078, 1)
+Button/colors/font_hover_color = Color(0.984314, 0.945098, 0.780392, 1)
+Button/colors/font_hover_pressed_color = Color(0.921569, 0.858824, 0.698039, 1)
 Button/colors/font_pressed_color = Color(0.270588, 0.521569, 0.533333, 1)
-Button/colors/icon_disabled_color = Color(1, 1, 1, 0.4)
+Button/colors/icon_disabled_color = Color(0.486275, 0.435294, 0.392157, 1)
 Button/colors/icon_focus_color = Color(0.921569, 0.858824, 0.698039, 1)
-Button/colors/icon_hover_color = Color(0.513726, 0.647059, 0.596078, 1)
-Button/colors/icon_hover_pressed_color = Color(0.513726, 0.647059, 0.596078, 1)
-Button/colors/icon_normal_color = Color(1, 0.913725, 0.72549, 1)
+Button/colors/icon_hover_color = Color(0.270588, 0.521569, 0.533333, 1)
+Button/colors/icon_hover_pressed_color = Color(0.270588, 0.521569, 0.533333, 1)
+Button/colors/icon_normal_color = Color(0.921569, 0.858824, 0.698039, 1)
 Button/colors/icon_pressed_color = Color(0.270588, 0.521569, 0.533333, 1)
 Button/constants/h_separation = 4
 Button/constants/icon_max_width = 0
@@ -805,7 +1017,7 @@ CheckButton/icons/unchecked_disabled_mirrored = ExtResource("15_378b4")
 CheckButton/icons/unchecked_mirrored = ExtResource("16_dswp8")
 CheckButton/styles/hover = SubResource("StyleBoxEmpty_hwxgl")
 CheckButton/styles/hover_pressed = SubResource("StyleBoxEmpty_4nl4y")
-CheckButton/styles/normal = SubResource("StyleBoxEmpty_vfyad")
+CheckButton/styles/normal = SubResource("StyleBoxEmpty_nb5qe")
 CheckButton/styles/pressed = SubResource("StyleBoxEmpty_me26a")
 CodeEdit/constants/completion_lines = 10
 CodeEdit/constants/completion_scroll_width = 8
@@ -860,19 +1072,917 @@ EditorHelp/colors/title_color = Color(0.270588, 0.521569, 0.533333, 1)
 EditorHelp/colors/type_color = Color(0.513726, 0.647059, 0.596078, 1)
 EditorHelp/colors/value_color = Color(0.721569, 0.733333, 0.14902, 1)
 EditorHelp/styles/background = SubResource("StyleBoxFlat_p8rbh")
-EditorIcons/icons/Animation = ExtResource("38_gy7f2")
+EditorIcons/icons/2D = ExtResource("36_ecw7l")
+EditorIcons/icons/3D = ExtResource("37_5vekb")
+EditorIcons/icons/AABB = ExtResource("38_7ixkp")
+EditorIcons/icons/AcceptDialog = ExtResource("36_7kalk")
+EditorIcons/icons/ActionCopy = ExtResource("40_bosvw")
+EditorIcons/icons/ActionCut = ExtResource("41_upuu3")
+EditorIcons/icons/ActionPaste = ExtResource("42_u8o38")
+EditorIcons/icons/Add = ExtResource("27_qsax5")
+EditorIcons/icons/Anchor = ExtResource("43_3q4nb")
+EditorIcons/icons/AnimatableBody2D = ExtResource("44_gquq1")
+EditorIcons/icons/AnimatableBody3D = ExtResource("45_whwfo")
+EditorIcons/icons/AnimatedSprite2D = ExtResource("46_04ovc")
+EditorIcons/icons/AnimatedSprite3D = ExtResource("47_wc2i4")
+EditorIcons/icons/AnimatedTexture = ExtResource("48_73gee")
+EditorIcons/icons/Animation = ExtResource("49_xrth1")
+EditorIcons/icons/AnimationFilter = ExtResource("50_j8ydn")
+EditorIcons/icons/AnimationLibrary = ExtResource("51_mo8yp")
+EditorIcons/icons/AnimationMixer = ExtResource("52_fj7kf")
+EditorIcons/icons/AnimationPlayer = ExtResource("53_8addk")
+EditorIcons/icons/AnimationTrackGroup = ExtResource("54_d86fn")
+EditorIcons/icons/AnimationTrackList = ExtResource("55_do05u")
+EditorIcons/icons/AnimationTree = ExtResource("56_i4vnt")
+EditorIcons/icons/Area2D = ExtResource("57_fkj53")
+EditorIcons/icons/Area3D = ExtResource("58_aurua")
+EditorIcons/icons/Array = ExtResource("59_r2i4c")
+EditorIcons/icons/ArrayMesh = ExtResource("60_y4og6")
+EditorIcons/icons/ArrayOccluder3D = ExtResource("61_1r05f")
+EditorIcons/icons/ArrowDown = ExtResource("62_e5d4p")
+EditorIcons/icons/ArrowLeft = ExtResource("63_kydmt")
+EditorIcons/icons/ArrowRight = ExtResource("64_llxb8")
+EditorIcons/icons/ArrowUp = ExtResource("22_b28gv")
+EditorIcons/icons/AspectRatioContainer = ExtResource("66_e3x7k")
+EditorIcons/icons/AssetLib = ExtResource("67_d7iyx")
+EditorIcons/icons/AtlasTexture = ExtResource("68_3bfeb")
+EditorIcons/icons/AudioBusBypass = ExtResource("69_c463i")
+EditorIcons/icons/AudioBusLayout = ExtResource("70_02nji")
+EditorIcons/icons/AudioBusMute = ExtResource("71_2l3wt")
+EditorIcons/icons/AudioBusSolo = ExtResource("72_r4ecc")
+EditorIcons/icons/AudioListener2D = ExtResource("73_4yobu")
+EditorIcons/icons/AudioListener3D = ExtResource("74_u7ypu")
+EditorIcons/icons/AudioStream = ExtResource("75_mvdwx")
+EditorIcons/icons/AudioStreamGenerator = ExtResource("76_wclj2")
+EditorIcons/icons/AudioStreamMP3 = ExtResource("77_vly4d")
+EditorIcons/icons/AudioStreamMicrophone = ExtResource("78_kwv32")
+EditorIcons/icons/AudioStreamOggVorbis = ExtResource("77_vly4d")
+EditorIcons/icons/AudioStreamPlayer = ExtResource("79_ox663")
+EditorIcons/icons/AudioStreamPlayer2D = ExtResource("80_gthi4")
+EditorIcons/icons/AudioStreamPlayer3D = ExtResource("81_fp6ri")
+EditorIcons/icons/AudioStreamPolyphonic = ExtResource("82_w0ech")
+EditorIcons/icons/AudioStreamRandomizer = ExtResource("83_66w1n")
+EditorIcons/icons/AudioStreamWAV = ExtResource("77_vly4d")
+EditorIcons/icons/AutoEnd = ExtResource("84_uu5no")
+EditorIcons/icons/AutoKey = ExtResource("85_1lw3r")
+EditorIcons/icons/AutoPlay = ExtResource("86_wgijk")
+EditorIcons/icons/AutoTriangle = ExtResource("87_4jeqm")
+EditorIcons/icons/Back = ExtResource("88_x8wj1")
+EditorIcons/icons/BackBufferCopy = ExtResource("89_u4a0i")
+EditorIcons/icons/Bake = ExtResource("90_5kvj6")
+EditorIcons/icons/BaseButton = ExtResource("91_7eauy")
+EditorIcons/icons/Basis = ExtResource("92_gxvm0")
+EditorIcons/icons/BezierHandlesBalanced = ExtResource("93_eq8hr")
+EditorIcons/icons/BezierHandlesFree = ExtResource("94_tlb2j")
+EditorIcons/icons/BezierHandlesLinear = ExtResource("95_bind1")
+EditorIcons/icons/BezierHandlesMirror = ExtResource("96_sk7oq")
+EditorIcons/icons/BitMap = ExtResource("97_onvmg")
+EditorIcons/icons/Blend = ExtResource("98_7uout")
+EditorIcons/icons/Bone = ExtResource("99_c4k4k")
+EditorIcons/icons/Bone2D = ExtResource("100_hx1lq")
+EditorIcons/icons/BoneAttachment3D = ExtResource("101_1bwun")
+EditorIcons/icons/BoneMapHumanBody = ExtResource("102_tl6uj")
+EditorIcons/icons/BoneMapHumanFace = ExtResource("103_4o31f")
+EditorIcons/icons/BoneMapHumanLeftHand = ExtResource("104_2fcn7")
+EditorIcons/icons/BoneMapHumanRightHand = ExtResource("105_rn21x")
+EditorIcons/icons/BoneMapperHandle = ExtResource("106_hw5k4")
+EditorIcons/icons/BoneMapperHandleCircle = ExtResource("107_yxgmo")
+EditorIcons/icons/BoneMapperHandleSelected = ExtResource("108_uxfdw")
+EditorIcons/icons/BoxContainer = ExtResource("109_eybm2")
+EditorIcons/icons/BoxMesh = ExtResource("110_yjeq4")
+EditorIcons/icons/BoxOccluder3D = ExtResource("111_nsihy")
+EditorIcons/icons/BoxShape3D = ExtResource("112_gem5y")
+EditorIcons/icons/Breakpoint = ExtResource("113_cib8p")
+EditorIcons/icons/Bucket = ExtResource("114_vy03m")
+EditorIcons/icons/BusVuActive = ExtResource("115_l1a32")
+EditorIcons/icons/BusVuFrozen = ExtResource("116_hmug1")
+EditorIcons/icons/Button = ExtResource("117_ycyfr")
+EditorIcons/icons/ButtonGroup = ExtResource("118_6s6wt")
+EditorIcons/icons/CPUParticles2D = ExtResource("119_r3wbm")
+EditorIcons/icons/CPUParticles3D = ExtResource("120_h7sqm")
+EditorIcons/icons/Callable = ExtResource("121_von44")
+EditorIcons/icons/Camera2D = ExtResource("122_6pl3w")
+EditorIcons/icons/Camera3D = ExtResource("123_v30gk")
+EditorIcons/icons/CameraAttributes = ExtResource("124_kkv0q")
+EditorIcons/icons/CameraAttributesPhysical = ExtResource("125_42de5")
+EditorIcons/icons/CameraAttributesPractical = ExtResource("126_a07bd")
+EditorIcons/icons/CameraTexture = ExtResource("127_qxof7")
+EditorIcons/icons/CanvasGroup = ExtResource("128_6yk6h")
 EditorIcons/icons/CanvasItem = ExtResource("36_714sy")
+EditorIcons/icons/CanvasItemMaterial = ExtResource("130_bxclo")
+EditorIcons/icons/CanvasLayer = ExtResource("131_mp4gi")
+EditorIcons/icons/CanvasModulate = ExtResource("132_g47uw")
+EditorIcons/icons/CanvasTexture = ExtResource("133_rhpte")
+EditorIcons/icons/CapsuleMesh = ExtResource("134_0khsr")
+EditorIcons/icons/CapsuleShape2D = ExtResource("135_nshxs")
+EditorIcons/icons/CapsuleShape3D = ExtResource("136_0jvih")
+EditorIcons/icons/CenterContainer = ExtResource("137_gerie")
+EditorIcons/icons/CenterView = ExtResource("138_6poa1")
+EditorIcons/icons/CharacterBody2D = ExtResource("139_cnb5d")
+EditorIcons/icons/CharacterBody3D = ExtResource("140_4733k")
+EditorIcons/icons/CheckBox = ExtResource("141_jmulw")
+EditorIcons/icons/CheckButton = ExtResource("142_ebrfg")
+EditorIcons/icons/Checkerboard = ExtResource("143_t6omp")
+EditorIcons/icons/CircleShape2D = ExtResource("144_n3yo1")
+EditorIcons/icons/ClassList = ExtResource("145_1k26a")
+EditorIcons/icons/Clear = ExtResource("146_inw7x")
+EditorIcons/icons/Close = ExtResource("147_7md5p")
+EditorIcons/icons/CodeEdit = ExtResource("148_q5vlb")
+EditorIcons/icons/CodeFoldDownArrow = ExtResource("149_f08nl")
+EditorIcons/icons/CodeFoldedRightArrow = ExtResource("150_rsh4y")
+EditorIcons/icons/CodeHighlighter = ExtResource("151_m5h3o")
+EditorIcons/icons/CodeRegionFoldDownArrow = ExtResource("21_is3lh")
+EditorIcons/icons/CodeRegionFoldedRightArrow = ExtResource("152_gx7oo")
+EditorIcons/icons/Collapse = ExtResource("153_e1j0t")
+EditorIcons/icons/CollapseTree = ExtResource("154_iqxsv")
+EditorIcons/icons/CollisionPolygon2D = ExtResource("155_f1bu5")
+EditorIcons/icons/CollisionPolygon3D = ExtResource("156_3h3x8")
+EditorIcons/icons/CollisionShape2D = ExtResource("157_0nmac")
+EditorIcons/icons/CollisionShape3D = ExtResource("158_8rudv")
+EditorIcons/icons/Color = ExtResource("159_et8y3")
+EditorIcons/icons/ColorPick = ExtResource("160_1cnbq")
+EditorIcons/icons/ColorPicker = ExtResource("161_dr1rw")
+EditorIcons/icons/ColorPickerBarArrow = ExtResource("162_r87wd")
+EditorIcons/icons/ColorPickerButton = ExtResource("163_ooavk")
+EditorIcons/icons/ColorRect = ExtResource("164_muqa8")
+EditorIcons/icons/ColorTrackVu = ExtResource("165_hd06l")
+EditorIcons/icons/CombineLines = ExtResource("166_t1up3")
+EditorIcons/icons/CompressedTexture2D = ExtResource("167_c3vbb")
+EditorIcons/icons/CompressedTexture3D = ExtResource("168_04bau")
+EditorIcons/icons/ConcavePolygonShape2D = ExtResource("169_2u70c")
+EditorIcons/icons/ConcavePolygonShape3D = ExtResource("170_v5aqi")
+EditorIcons/icons/ConeTwistJoint3D = ExtResource("171_a1e4g")
+EditorIcons/icons/ConfirmationDialog = ExtResource("172_rwnqp")
+EditorIcons/icons/Container = ExtResource("173_33amh")
+EditorIcons/icons/ContainerLayout = ExtResource("174_3uiyv")
+EditorIcons/icons/Control = ExtResource("175_t1g4b")
+EditorIcons/icons/ControlAlignBottomLeft = ExtResource("176_okt5a")
+EditorIcons/icons/ControlAlignBottomRight = ExtResource("177_yonp0")
+EditorIcons/icons/ControlAlignBottomWide = ExtResource("178_y6ail")
+EditorIcons/icons/ControlAlignCenter = ExtResource("179_7aos2")
+EditorIcons/icons/ControlAlignCenterBottom = ExtResource("180_hk1t0")
+EditorIcons/icons/ControlAlignCenterLeft = ExtResource("181_nwsr5")
+EditorIcons/icons/ControlAlignCenterRight = ExtResource("182_rrtla")
+EditorIcons/icons/ControlAlignCenterTop = ExtResource("183_meu5u")
+EditorIcons/icons/ControlAlignFullRect = ExtResource("184_3x5vg")
+EditorIcons/icons/ControlAlignHCenterWide = ExtResource("185_ppa2v")
+EditorIcons/icons/ControlAlignLeftWide = ExtResource("186_sx2ta")
+EditorIcons/icons/ControlAlignRightWide = ExtResource("187_ypmth")
+EditorIcons/icons/ControlAlignTopLeft = ExtResource("188_gulmj")
+EditorIcons/icons/ControlAlignTopRight = ExtResource("189_vjvo1")
+EditorIcons/icons/ControlAlignTopWide = ExtResource("190_you3j")
+EditorIcons/icons/ControlAlignVCenterWide = ExtResource("191_7wb2b")
+EditorIcons/icons/ControlLayout = ExtResource("192_fd2uh")
+EditorIcons/icons/ConvexPolygonShape2D = ExtResource("193_weion")
+EditorIcons/icons/ConvexPolygonShape3D = ExtResource("194_ohw32")
+EditorIcons/icons/CopyNodePath = ExtResource("195_a05lm")
+EditorIcons/icons/CreateNewSceneFrom = ExtResource("196_ehiuv")
+EditorIcons/icons/CryptoKey = ExtResource("197_dawj5")
+EditorIcons/icons/Cubemap = ExtResource("198_ajpgu")
+EditorIcons/icons/CubemapArray = ExtResource("199_wq1go")
+EditorIcons/icons/Curve = ExtResource("200_bgvim")
+EditorIcons/icons/Curve2D = ExtResource("201_fkv4l")
+EditorIcons/icons/Curve3D = ExtResource("202_gmm1f")
+EditorIcons/icons/CurveClose = ExtResource("203_0gnsl")
+EditorIcons/icons/CurveConstant = ExtResource("204_o2ull")
+EditorIcons/icons/CurveCreate = ExtResource("205_csvvo")
+EditorIcons/icons/CurveCurve = ExtResource("206_uv1k2")
+EditorIcons/icons/CurveDelete = ExtResource("207_vv4q8")
+EditorIcons/icons/CurveEdit = ExtResource("208_pn8xb")
+EditorIcons/icons/CurveIn = ExtResource("209_wnm6u")
+EditorIcons/icons/CurveInOut = ExtResource("210_xf2g1")
+EditorIcons/icons/CurveLinear = ExtResource("211_lsg6q")
+EditorIcons/icons/CurveOut = ExtResource("210_xf2g1")
+EditorIcons/icons/CurveOutIn = ExtResource("212_2q0bo")
+EditorIcons/icons/CurveTexture = ExtResource("213_q7f7c")
+EditorIcons/icons/CurveTilt = ExtResource("214_tjjw1")
+EditorIcons/icons/CurveXYZTexture = ExtResource("215_th4lx")
+EditorIcons/icons/CylinderMesh = ExtResource("216_67ggn")
+EditorIcons/icons/CylinderShape3D = ExtResource("217_n76oh")
+EditorIcons/icons/DampedSpringJoint2D = ExtResource("218_cwi0l")
+EditorIcons/icons/Debug = ExtResource("219_vbygh")
+EditorIcons/icons/DebugContinue = ExtResource("220_t5j4t")
+EditorIcons/icons/DebugNext = ExtResource("221_x7v7d")
+EditorIcons/icons/DebugSkipBreakpointsOff = ExtResource("222_iwv05")
+EditorIcons/icons/DebugSkipBreakpointsOn = ExtResource("223_m481k")
+EditorIcons/icons/DebugStep = ExtResource("224_630uf")
+EditorIcons/icons/Decal = ExtResource("225_2intt")
+EditorIcons/icons/DefaultProjectIcon = ExtResource("226_5go44")
+EditorIcons/icons/Dictionary = ExtResource("227_kwt2y")
+EditorIcons/icons/DirAccess = ExtResource("228_mepmb")
+EditorIcons/icons/DirectionalLight2D = ExtResource("229_v08l5")
+EditorIcons/icons/DirectionalLight3D = ExtResource("230_dpmjy")
+EditorIcons/icons/DistractionFree = ExtResource("231_200hh")
+EditorIcons/icons/Duplicate = ExtResource("232_taggd")
+EditorIcons/icons/Edit = null
+EditorIcons/icons/EditAddRemove = null
+EditorIcons/icons/EditBezier = null
+EditorIcons/icons/EditInternal = null
+EditorIcons/icons/EditKey = null
+EditorIcons/icons/EditPivot = null
+EditorIcons/icons/Editor3DHandle = null
+EditorIcons/icons/EditorBoneHandle = null
+EditorIcons/icons/EditorControlAnchor = null
+EditorIcons/icons/EditorCurveHandle = null
+EditorIcons/icons/EditorFileDialog = null
+EditorIcons/icons/EditorHandle = null
+EditorIcons/icons/EditorHandleAdd = null
+EditorIcons/icons/EditorHandleDisabled = null
+EditorIcons/icons/EditorPathSharpHandle = null
+EditorIcons/icons/EditorPathSmoothHandle = null
+EditorIcons/icons/EditorPivot = null
+EditorIcons/icons/EditorPlugin = null
+EditorIcons/icons/EditorPosition = null
+EditorIcons/icons/EditorPositionPrevious = null
+EditorIcons/icons/EditorPositionUnselected = null
+EditorIcons/icons/Enum = null
+EditorIcons/icons/Environment = null
+EditorIcons/icons/Eraser = null
+EditorIcons/icons/Error = null
+EditorIcons/icons/ErrorWarning = null
+EditorIcons/icons/ExpandBottomDock = null
+EditorIcons/icons/ExpandTree = null
+EditorIcons/icons/ExternalLink = null
+EditorIcons/icons/FadeCross = null
+EditorIcons/icons/FadeDisabled = null
+EditorIcons/icons/FadeIn = null
+EditorIcons/icons/FadeOut = null
+EditorIcons/icons/Favorites = null
+EditorIcons/icons/File = null
+EditorIcons/icons/FileAccess = null
 EditorIcons/icons/FileBigThumb = ExtResource("36_p1uli")
+EditorIcons/icons/FileBroken = null
+EditorIcons/icons/FileBrokenBigThumb = null
+EditorIcons/icons/FileBrowse = null
+EditorIcons/icons/FileDead = null
+EditorIcons/icons/FileDeadBigThumb = null
+EditorIcons/icons/FileDeadMediumThumb = null
+EditorIcons/icons/FileDialog = null
+EditorIcons/icons/FileList = null
 EditorIcons/icons/FileMediumThumb = ExtResource("36_a3lyr")
+EditorIcons/icons/FileThumbnail = null
+EditorIcons/icons/FileTree = null
+EditorIcons/icons/Filesystem = null
+EditorIcons/icons/FlowContainer = null
+EditorIcons/icons/FogMaterial = null
+EditorIcons/icons/FogVolume = null
+EditorIcons/icons/Folder = null
+EditorIcons/icons/FolderBigThumb = null
+EditorIcons/icons/FolderBrowse = null
+EditorIcons/icons/FolderCreate = null
+EditorIcons/icons/FolderMediumThumb = null
+EditorIcons/icons/Font = null
+EditorIcons/icons/FontFile = null
+EditorIcons/icons/FontItem = null
+EditorIcons/icons/FontSize = null
+EditorIcons/icons/FontVariation = null
+EditorIcons/icons/Forward = null
+EditorIcons/icons/GPUParticles2D = null
+EditorIcons/icons/GPUParticles3D = null
+EditorIcons/icons/GPUParticlesAttractorBox3D = null
+EditorIcons/icons/GPUParticlesAttractorSphere3D = null
+EditorIcons/icons/GPUParticlesAttractorVectorField3D = null
+EditorIcons/icons/GPUParticlesCollisionBox3D = null
+EditorIcons/icons/GPUParticlesCollisionHeightField3D = null
+EditorIcons/icons/GPUParticlesCollisionSDF3D = null
+EditorIcons/icons/GPUParticlesCollisionSphere3D = null
+EditorIcons/icons/Generic6DOFJoint3D = null
+EditorIcons/icons/GeometryInstance3D = null
+EditorIcons/icons/Gizmo3DSamplePlayer = null
+EditorIcons/icons/GizmoAudioListener3D = null
+EditorIcons/icons/GizmoCPUParticles3D = null
+EditorIcons/icons/GizmoCamera3D = null
+EditorIcons/icons/GizmoDecal = null
+EditorIcons/icons/GizmoDirectionalLight = null
+EditorIcons/icons/GizmoFogVolume = null
+EditorIcons/icons/GizmoGPUParticles3D = null
+EditorIcons/icons/GizmoLight = null
+EditorIcons/icons/GizmoLightmapGI = null
+EditorIcons/icons/GizmoLightmapProbe = null
+EditorIcons/icons/GizmoReflectionProbe = null
+EditorIcons/icons/GizmoSpotLight = null
+EditorIcons/icons/GizmoVoxelGI = null
+EditorIcons/icons/Godot = null
+EditorIcons/icons/GodotFile = null
+EditorIcons/icons/GodotMonochrome = null
+EditorIcons/icons/Gradient = null
+EditorIcons/icons/GradientTexture1D = null
+EditorIcons/icons/GradientTexture2D = null
+EditorIcons/icons/GraphEdit = null
+EditorIcons/icons/GraphElement = null
+EditorIcons/icons/GraphFrame = null
+EditorIcons/icons/GraphNode = null
+EditorIcons/icons/Grid = null
+EditorIcons/icons/GridContainer = null
+EditorIcons/icons/GridLayout = null
+EditorIcons/icons/GridMinimap = null
+EditorIcons/icons/GridToggle = null
+EditorIcons/icons/GrooveJoint2D = null
+EditorIcons/icons/Group = null
+EditorIcons/icons/GroupViewport = null
+EditorIcons/icons/Groups = null
+EditorIcons/icons/GuiChecked = null
+EditorIcons/icons/GuiCheckedDisabled = null
+EditorIcons/icons/GuiClose = null
+EditorIcons/icons/GuiDropdown = null
+EditorIcons/icons/GuiEllipsis = null
+EditorIcons/icons/GuiGraphNodePort = null
+EditorIcons/icons/GuiHsplitter = null
+EditorIcons/icons/GuiIndeterminate = null
+EditorIcons/icons/GuiIndeterminateDisabled = null
+EditorIcons/icons/GuiMiniCheckerboard = null
+EditorIcons/icons/GuiOptionArrow = null
+EditorIcons/icons/GuiProgressBar = null
+EditorIcons/icons/GuiProgressFill = null
+EditorIcons/icons/GuiRadioChecked = null
+EditorIcons/icons/GuiRadioCheckedDisabled = null
+EditorIcons/icons/GuiRadioUnchecked = null
+EditorIcons/icons/GuiRadioUncheckedDisabled = null
+EditorIcons/icons/GuiResizer = null
+EditorIcons/icons/GuiResizerTopLeft = null
+EditorIcons/icons/GuiScrollArrowLeft = null
+EditorIcons/icons/GuiScrollArrowLeftHl = null
+EditorIcons/icons/GuiScrollArrowRight = null
+EditorIcons/icons/GuiScrollArrowRightHl = null
+EditorIcons/icons/GuiScrollBg = null
+EditorIcons/icons/GuiScrollGrabber = null
+EditorIcons/icons/GuiScrollGrabberHl = null
+EditorIcons/icons/GuiScrollGrabberPressed = null
+EditorIcons/icons/GuiSliderGrabber = null
+EditorIcons/icons/GuiSliderGrabberHl = null
+EditorIcons/icons/GuiSpace = null
+EditorIcons/icons/GuiSpinboxUpdown = null
+EditorIcons/icons/GuiSpinboxUpdownDisabled = null
+EditorIcons/icons/GuiTab = null
+EditorIcons/icons/GuiTabDropMark = null
+EditorIcons/icons/GuiTabMenu = null
+EditorIcons/icons/GuiTabMenuHl = null
+EditorIcons/icons/GuiToggleOff = null
+EditorIcons/icons/GuiToggleOffDisabled = null
+EditorIcons/icons/GuiToggleOffDisabledMirrored = null
+EditorIcons/icons/GuiToggleOffMirrored = null
+EditorIcons/icons/GuiToggleOn = null
+EditorIcons/icons/GuiToggleOnDisabled = null
+EditorIcons/icons/GuiToggleOnDisabledMirrored = null
+EditorIcons/icons/GuiToggleOnMirrored = null
+EditorIcons/icons/GuiTreeArrowDown = null
+EditorIcons/icons/GuiTreeArrowLeft = null
+EditorIcons/icons/GuiTreeArrowRight = null
+EditorIcons/icons/GuiTreeUpdown = null
+EditorIcons/icons/GuiUnchecked = null
+EditorIcons/icons/GuiUncheckedDisabled = null
+EditorIcons/icons/GuiViewportHdiagsplitter = null
+EditorIcons/icons/GuiViewportVdiagsplitter = null
+EditorIcons/icons/GuiViewportVhsplitter = null
+EditorIcons/icons/GuiVisibilityHidden = null
+EditorIcons/icons/GuiVisibilityVisible = null
+EditorIcons/icons/GuiVisibilityXray = null
+EditorIcons/icons/GuiVsplitter = null
+EditorIcons/icons/HBoxContainer = null
+EditorIcons/icons/HFlowContainer = null
+EditorIcons/icons/HScrollBar = null
+EditorIcons/icons/HSeparator = null
+EditorIcons/icons/HSlider = null
+EditorIcons/icons/HSplitContainer = null
+EditorIcons/icons/HTTPRequest = null
+EditorIcons/icons/Heart = null
+EditorIcons/icons/HeightMapShape3D = null
+EditorIcons/icons/Help = null
+EditorIcons/icons/HelpSearch = null
+EditorIcons/icons/HingeJoint3D = null
+EditorIcons/icons/History = null
+EditorIcons/icons/Hsize = null
+EditorIcons/icons/IOSDeviceWired = null
+EditorIcons/icons/IOSDeviceWireless = null
+EditorIcons/icons/IOSSimulator = null
+EditorIcons/icons/Image = null
+EditorIcons/icons/ImageTexture = null
+EditorIcons/icons/ImageTexture3D = null
+EditorIcons/icons/ImmediateMesh = null
+EditorIcons/icons/ImportCheck = null
+EditorIcons/icons/ImportFail = null
+EditorIcons/icons/ImporterMeshInstance3D = null
+EditorIcons/icons/Info = null
+EditorIcons/icons/InputEventAction = null
+EditorIcons/icons/InputEventJoypadButton = null
+EditorIcons/icons/InputEventJoypadMotion = null
+EditorIcons/icons/InputEventKey = null
+EditorIcons/icons/InputEventMIDI = null
+EditorIcons/icons/InputEventMagnifyGesture = null
+EditorIcons/icons/InputEventMouseButton = null
+EditorIcons/icons/InputEventMouseMotion = null
+EditorIcons/icons/InputEventPanGesture = null
+EditorIcons/icons/InputEventScreenDrag = null
+EditorIcons/icons/InputEventScreenTouch = null
+EditorIcons/icons/InputEventShortcut = null
+EditorIcons/icons/InsertAfter = null
+EditorIcons/icons/InsertBefore = null
+EditorIcons/icons/Instance = null
+EditorIcons/icons/InstanceOptions = null
+EditorIcons/icons/InterpCubic = null
+EditorIcons/icons/InterpCubicAngle = null
+EditorIcons/icons/InterpLinear = null
+EditorIcons/icons/InterpLinearAngle = null
+EditorIcons/icons/InterpRaw = null
+EditorIcons/icons/InterpWrapClamp = null
+EditorIcons/icons/InterpWrapLoop = null
+EditorIcons/icons/ItemList = null
+EditorIcons/icons/JoyAxis = null
+EditorIcons/icons/JoyButton = null
+EditorIcons/icons/Joypad = null
+EditorIcons/icons/Key = null
+EditorIcons/icons/KeyAnimation = null
+EditorIcons/icons/KeyAudio = null
+EditorIcons/icons/KeyBezier = null
+EditorIcons/icons/KeyBezierHandle = null
+EditorIcons/icons/KeyBezierPoint = null
+EditorIcons/icons/KeyBezierSelected = null
+EditorIcons/icons/KeyBlendShape = null
+EditorIcons/icons/KeyCall = null
+EditorIcons/icons/KeyEasedSelected = null
+EditorIcons/icons/KeyInvalid = null
+EditorIcons/icons/KeyNext = null
+EditorIcons/icons/KeyPosition = null
+EditorIcons/icons/KeyRotation = null
+EditorIcons/icons/KeyScale = null
+EditorIcons/icons/KeySelected = null
+EditorIcons/icons/KeyTrackBlendShape = null
+EditorIcons/icons/KeyTrackPosition = null
+EditorIcons/icons/KeyTrackRotation = null
+EditorIcons/icons/KeyTrackScale = null
+EditorIcons/icons/KeyValue = null
+EditorIcons/icons/KeyValueEased = null
+EditorIcons/icons/KeyXPosition = null
+EditorIcons/icons/KeyXRotation = null
+EditorIcons/icons/KeyXScale = null
+EditorIcons/icons/Keyboard = null
+EditorIcons/icons/KeyboardError = null
+EditorIcons/icons/KeyboardLabel = null
+EditorIcons/icons/KeyboardPhysical = null
+EditorIcons/icons/Label = null
+EditorIcons/icons/Label3D = null
+EditorIcons/icons/LabelSettings = null
+EditorIcons/icons/LightOccluder2D = null
+EditorIcons/icons/LightmapGI = null
+EditorIcons/icons/LightmapGIData = null
+EditorIcons/icons/LightmapProbe = null
+EditorIcons/icons/Line = null
+EditorIcons/icons/Line2D = null
+EditorIcons/icons/LineEdit = null
+EditorIcons/icons/LinkButton = null
+EditorIcons/icons/ListSelect = null
+EditorIcons/icons/Load = null
+EditorIcons/icons/Lock = null
+EditorIcons/icons/LockViewport = null
+EditorIcons/icons/Logo = null
+EditorIcons/icons/Loop = null
 EditorIcons/icons/MainMovieWrite = ExtResource("38_gy7f2")
+EditorIcons/icons/MainPlay = ExtResource("40_r64w8")
+EditorIcons/icons/MakeFloating = null
+EditorIcons/icons/MarginContainer = null
+EditorIcons/icons/Marker2D = null
+EditorIcons/icons/Marker3D = null
+EditorIcons/icons/MatchCase = null
+EditorIcons/icons/MaterialPreviewCube = null
+EditorIcons/icons/MaterialPreviewLight1 = null
+EditorIcons/icons/MaterialPreviewLight2 = null
+EditorIcons/icons/MaterialPreviewSphere = null
+EditorIcons/icons/MemberAnnotation = null
+EditorIcons/icons/MemberConstant = null
+EditorIcons/icons/MemberMethod = null
+EditorIcons/icons/MemberProperty = null
+EditorIcons/icons/MemberSignal = null
+EditorIcons/icons/MemberTheme = null
+EditorIcons/icons/MenuBar = null
+EditorIcons/icons/MenuButton = null
+EditorIcons/icons/Mesh = null
+EditorIcons/icons/MeshInstance2D = null
+EditorIcons/icons/MeshInstance3D = null
+EditorIcons/icons/MeshItem = null
+EditorIcons/icons/MeshLibrary = null
+EditorIcons/icons/MeshTexture = null
+EditorIcons/icons/MethodOverride = null
+EditorIcons/icons/MethodOverrideAndSlot = null
+EditorIcons/icons/MiniObject = null
+EditorIcons/icons/MirrorX = null
+EditorIcons/icons/MirrorY = null
+EditorIcons/icons/MissingNode = null
+EditorIcons/icons/MissingResource = null
+EditorIcons/icons/Mouse = null
+EditorIcons/icons/MoveDown = null
+EditorIcons/icons/MoveLeft = null
+EditorIcons/icons/MovePoint = null
+EditorIcons/icons/MoveRight = null
+EditorIcons/icons/MoveUp = null
+EditorIcons/icons/MultiMesh = null
+EditorIcons/icons/MultiMeshInstance2D = null
+EditorIcons/icons/MultiMeshInstance3D = null
+EditorIcons/icons/MultiplayerSpawner = null
+EditorIcons/icons/MultiplayerSynchronizer = null
+EditorIcons/icons/NavigationAgent2D = null
+EditorIcons/icons/NavigationAgent3D = null
+EditorIcons/icons/NavigationLink2D = null
+EditorIcons/icons/NavigationLink3D = null
+EditorIcons/icons/NavigationMesh = null
+EditorIcons/icons/NavigationObstacle2D = null
+EditorIcons/icons/NavigationObstacle3D = null
+EditorIcons/icons/NavigationPolygon = null
+EditorIcons/icons/NavigationRegion2D = null
+EditorIcons/icons/NavigationRegion3D = null
+EditorIcons/icons/New = null
+EditorIcons/icons/NewKey = null
+EditorIcons/icons/NewRoot = null
+EditorIcons/icons/Nil = null
+EditorIcons/icons/NinePatchRect = null
 EditorIcons/icons/Node = ExtResource("39_lwgol")
 EditorIcons/icons/Node2D = ExtResource("40_bxqg5")
 EditorIcons/icons/Node3D = ExtResource("41_gyw8v")
 EditorIcons/icons/NodeDisabled = ExtResource("42_rm4ki")
-EditorIcons/icons/Object = ExtResource("36_1ccwa")
-EditorIcons/icons/ObjectDisabled = ExtResource("37_drmk1")
+EditorIcons/icons/NodeInfo = null
+EditorIcons/icons/NodePath = null
+EditorIcons/icons/NodeWarning = null
+EditorIcons/icons/NodeWarnings2 = null
+EditorIcons/icons/NodeWarnings3 = null
+EditorIcons/icons/NodeWarnings4Plus = null
+EditorIcons/icons/NonFavorite = null
+EditorIcons/icons/Notification = null
+EditorIcons/icons/NotificationDisabled = null
+EditorIcons/icons/ORMMaterial3D = null
+EditorIcons/icons/Object = ExtResource("46_3s10b")
+EditorIcons/icons/ObjectDisabled = ExtResource("47_m4u4u")
+EditorIcons/icons/Occluder3D = null
+EditorIcons/icons/OccluderInstance3D = null
+EditorIcons/icons/OccluderPolygon2D = null
+EditorIcons/icons/OmniLight3D = null
+EditorIcons/icons/OneWayTile = null
+EditorIcons/icons/Onion = null
+EditorIcons/icons/OptionButton = null
+EditorIcons/icons/OverbrightIndicator = null
+EditorIcons/icons/Override = null
+EditorIcons/icons/PackedByteArray = null
+EditorIcons/icons/PackedColorArray = null
+EditorIcons/icons/PackedDataContainer = null
+EditorIcons/icons/PackedFloat32Array = null
+EditorIcons/icons/PackedFloat64Array = null
+EditorIcons/icons/PackedInt32Array = null
+EditorIcons/icons/PackedInt64Array = null
+EditorIcons/icons/PackedScene = null
+EditorIcons/icons/PackedStringArray = null
+EditorIcons/icons/PackedVector2Array = null
+EditorIcons/icons/PackedVector3Array = null
+EditorIcons/icons/PageFirst = null
+EditorIcons/icons/PageLast = null
+EditorIcons/icons/PageNext = null
+EditorIcons/icons/PagePrevious = null
+EditorIcons/icons/Paint = null
+EditorIcons/icons/Panel = null
+EditorIcons/icons/PanelContainer = null
+EditorIcons/icons/Panels1 = null
+EditorIcons/icons/Panels2 = null
+EditorIcons/icons/Panels2Alt = null
+EditorIcons/icons/Panels3 = null
+EditorIcons/icons/Panels3Alt = null
+EditorIcons/icons/Panels4 = null
+EditorIcons/icons/PanoramaSkyMaterial = null
+EditorIcons/icons/Parallax2D = null
+EditorIcons/icons/ParallaxBackground = null
+EditorIcons/icons/ParallaxLayer = null
+EditorIcons/icons/ParticleProcessMaterial = null
+EditorIcons/icons/Path2D = null
+EditorIcons/icons/Path3D = null
+EditorIcons/icons/PathFollow2D = null
+EditorIcons/icons/PathFollow3D = null
+EditorIcons/icons/Pause = null
+EditorIcons/icons/Performance = null
+EditorIcons/icons/PhysicalBone2D = null
+EditorIcons/icons/PhysicalBone3D = null
+EditorIcons/icons/PhysicalBoneSimulator3D = null
+EditorIcons/icons/PhysicalSkyMaterial = null
+EditorIcons/icons/PhysicsMaterial = null
+EditorIcons/icons/PickerCursor = null
+EditorIcons/icons/PickerShapeCircle = null
+EditorIcons/icons/PickerShapeRectangle = null
+EditorIcons/icons/PickerShapeRectangleWheel = null
+EditorIcons/icons/Pin = null
+EditorIcons/icons/PinJoint2D = null
+EditorIcons/icons/PinJoint3D = null
+EditorIcons/icons/PinPressed = null
+EditorIcons/icons/PingPongLoop = null
+EditorIcons/icons/PlaceholderMaterial = null
+EditorIcons/icons/PlaceholderMesh = null
+EditorIcons/icons/PlaceholderTexture2D = null
+EditorIcons/icons/PlaceholderTexture3D = null
+EditorIcons/icons/Plane = null
+EditorIcons/icons/PlaneMesh = null
+EditorIcons/icons/Play = ExtResource("40_r64w8")
+EditorIcons/icons/PlayBackwards = null
+EditorIcons/icons/PlayCustom = null
+EditorIcons/icons/PlayOverlay = null
+EditorIcons/icons/PlayRemote = null
+EditorIcons/icons/PlayScene = null
+EditorIcons/icons/PlayStart = null
+EditorIcons/icons/PlayStartBackwards = null
+EditorIcons/icons/PlayTravel = null
+EditorIcons/icons/PluginScript = null
+EditorIcons/icons/PointLight2D = null
+EditorIcons/icons/PointMesh = null
+EditorIcons/icons/Polygon2D = null
+EditorIcons/icons/PolygonOccluder3D = null
+EditorIcons/icons/PolygonPathFinder = null
+EditorIcons/icons/Popup = null
+EditorIcons/icons/PopupMenu = null
+EditorIcons/icons/PopupPanel = null
+EditorIcons/icons/PortableCompressedTexture2D = null
+EditorIcons/icons/PreviewEnvironment = null
+EditorIcons/icons/PreviewRotate = null
+EditorIcons/icons/PreviewSun = null
+EditorIcons/icons/PrismMesh = null
+EditorIcons/icons/ProceduralSkyMaterial = null
+EditorIcons/icons/Progress1 = null
+EditorIcons/icons/Progress2 = null
+EditorIcons/icons/Progress3 = null
+EditorIcons/icons/Progress4 = null
+EditorIcons/icons/Progress5 = null
+EditorIcons/icons/Progress6 = null
+EditorIcons/icons/Progress7 = null
+EditorIcons/icons/Progress8 = null
+EditorIcons/icons/ProgressBar = null
+EditorIcons/icons/ProjectIconLoading = null
+EditorIcons/icons/ProjectList = null
+EditorIcons/icons/Projection = null
+EditorIcons/icons/Quad = null
+EditorIcons/icons/QuadMesh = null
+EditorIcons/icons/QuadOccluder3D = null
+EditorIcons/icons/Quaternion = null
+EditorIcons/icons/RID = null
+EditorIcons/icons/RandomNumberGenerator = null
+EditorIcons/icons/Range = null
+EditorIcons/icons/RangeSliderLeft = null
+EditorIcons/icons/RangeSliderRight = null
+EditorIcons/icons/RayCast2D = null
+EditorIcons/icons/RayCast3D = null
+EditorIcons/icons/Rect2 = null
+EditorIcons/icons/Rect2i = null
+EditorIcons/icons/Rectangle = null
+EditorIcons/icons/RectangleShape2D = null
+EditorIcons/icons/ReferenceRect = null
+EditorIcons/icons/ReflectionProbe = null
+EditorIcons/icons/RegionEdit = null
 EditorIcons/icons/Reload = ExtResource("23_r4lqy")
 EditorIcons/icons/ReloadSmall = ExtResource("39_6jvge")
+EditorIcons/icons/RemoteTransform2D = null
+EditorIcons/icons/RemoteTransform3D = null
+EditorIcons/icons/Remove = null
+EditorIcons/icons/RemoveInternal = null
+EditorIcons/icons/Rename = null
+EditorIcons/icons/Reparent = null
+EditorIcons/icons/ReparentToNewNode = null
+EditorIcons/icons/ResourcePreloader = null
+EditorIcons/icons/ReverseGradient = null
+EditorIcons/icons/RibbonTrailMesh = null
+EditorIcons/icons/RichTextEffect = null
+EditorIcons/icons/RichTextLabel = null
+EditorIcons/icons/RigidBody2D = null
+EditorIcons/icons/RigidBody3D = null
+EditorIcons/icons/RootMotionView = null
+EditorIcons/icons/RotateLeft = null
+EditorIcons/icons/RotateRight = null
+EditorIcons/icons/Ruler = null
+EditorIcons/icons/SampleLibrary = null
+EditorIcons/icons/Save = ExtResource("79_8bykh")
+EditorIcons/icons/SceneUniqueName = null
+EditorIcons/icons/Script = null
+EditorIcons/icons/ScriptCreate = null
+EditorIcons/icons/ScriptCreateDialog = null
+EditorIcons/icons/ScriptExtend = null
+EditorIcons/icons/ScriptRemove = null
+EditorIcons/icons/ScrollContainer = null
+EditorIcons/icons/Search = null
+EditorIcons/icons/SegmentShape2D = null
+EditorIcons/icons/SeparationRayShape2D = null
+EditorIcons/icons/SeparationRayShape3D = null
+EditorIcons/icons/Shader = null
+EditorIcons/icons/ShaderGlobalsOverride = null
+EditorIcons/icons/ShaderInclude = null
+EditorIcons/icons/ShaderMaterial = null
+EditorIcons/icons/ShapeCast2D = null
+EditorIcons/icons/ShapeCast3D = null
+EditorIcons/icons/Shortcut = null
+EditorIcons/icons/ShowInFileSystem = null
+EditorIcons/icons/Signal = null
+EditorIcons/icons/Signals = null
+EditorIcons/icons/SignalsAndGroups = null
+EditorIcons/icons/Skeleton2D = null
+EditorIcons/icons/Skeleton3D = null
+EditorIcons/icons/SkeletonIK3D = null
+EditorIcons/icons/SkeletonModifier3D = null
+EditorIcons/icons/Sky = null
+EditorIcons/icons/SliderJoint3D = null
+EditorIcons/icons/Slot = null
+EditorIcons/icons/Snap = null
+EditorIcons/icons/SnapDisable = null
+EditorIcons/icons/SnapGrid = null
+EditorIcons/icons/SoftBody3D = null
+EditorIcons/icons/Sort = null
+EditorIcons/icons/SphereMesh = null
+EditorIcons/icons/SphereOccluder3D = null
+EditorIcons/icons/SphereShape3D = null
+EditorIcons/icons/SpinBox = null
+EditorIcons/icons/SplitContainer = null
+EditorIcons/icons/SpotLight3D = null
+EditorIcons/icons/SpringArm3D = null
+EditorIcons/icons/Sprite2D = null
+EditorIcons/icons/Sprite3D = null
+EditorIcons/icons/SpriteFrames = null
+EditorIcons/icons/SpriteSheet = null
+EditorIcons/icons/StandardMaterial3D = null
+EditorIcons/icons/StaticBody2D = null
+EditorIcons/icons/StaticBody3D = null
+EditorIcons/icons/StatusError = null
+EditorIcons/icons/StatusIndicator = null
+EditorIcons/icons/StatusSuccess = null
+EditorIcons/icons/StatusWarning = null
+EditorIcons/icons/Stop = null
+EditorIcons/icons/String = null
+EditorIcons/icons/StringName = null
+EditorIcons/icons/StyleBoxEmpty = null
+EditorIcons/icons/StyleBoxFlat = null
+EditorIcons/icons/StyleBoxGrid = null
+EditorIcons/icons/StyleBoxLine = null
+EditorIcons/icons/StyleBoxTexture = null
+EditorIcons/icons/SubViewport = null
+EditorIcons/icons/SubViewportContainer = null
+EditorIcons/icons/SyntaxHighlighter = null
+EditorIcons/icons/SystemFont = null
+EditorIcons/icons/TabBar = null
+EditorIcons/icons/TabContainer = null
+EditorIcons/icons/Terminal = null
+EditorIcons/icons/TerrainConnect = null
+EditorIcons/icons/TerrainMatchCorners = null
+EditorIcons/icons/TerrainMatchCornersAndSides = null
+EditorIcons/icons/TerrainMatchSides = null
+EditorIcons/icons/TerrainPath = null
+EditorIcons/icons/TextEdit = null
+EditorIcons/icons/TextEditorPlay = ExtResource("49_4pmxt")
+EditorIcons/icons/TextFile = null
+EditorIcons/icons/TextMesh = null
+EditorIcons/icons/Texture2D = null
+EditorIcons/icons/Texture2DArray = null
+EditorIcons/icons/Texture3D = null
+EditorIcons/icons/TextureButton = null
+EditorIcons/icons/TextureProgressBar = null
+EditorIcons/icons/TextureRect = null
+EditorIcons/icons/Theme = null
+EditorIcons/icons/ThemeDeselectAll = null
+EditorIcons/icons/ThemeRemoveAllItems = null
+EditorIcons/icons/ThemeRemoveCustomItems = null
+EditorIcons/icons/ThemeSelectAll = null
+EditorIcons/icons/ThemeSelectFull = null
+EditorIcons/icons/ThumbnailWait = null
+EditorIcons/icons/TileChecked = null
+EditorIcons/icons/TileMap = null
+EditorIcons/icons/TileMapHighlightSelected = null
+EditorIcons/icons/TileMapLayer = null
+EditorIcons/icons/TileSelection = null
+EditorIcons/icons/TileSet = null
+EditorIcons/icons/TileUnchecked = null
+EditorIcons/icons/Time = null
+EditorIcons/icons/TimelineIndicator = null
+EditorIcons/icons/Timer = null
+EditorIcons/icons/TitleBarLogo = null
+EditorIcons/icons/ToolAddNode = null
+EditorIcons/icons/ToolBoneSelect = null
+EditorIcons/icons/ToolConnect = null
+EditorIcons/icons/ToolMove = null
+EditorIcons/icons/ToolPan = null
+EditorIcons/icons/ToolRotate = null
+EditorIcons/icons/ToolScale = null
+EditorIcons/icons/ToolSelect = ExtResource("48_oop8r")
+EditorIcons/icons/ToolTriangle = null
+EditorIcons/icons/Tools = null
+EditorIcons/icons/TorusMesh = null
+EditorIcons/icons/TouchScreenButton = null
+EditorIcons/icons/TrackCapture = null
+EditorIcons/icons/TrackColor = null
+EditorIcons/icons/TrackContinuous = null
+EditorIcons/icons/TrackDiscrete = null
+EditorIcons/icons/Transform2D = null
+EditorIcons/icons/Transform3D = null
+EditorIcons/icons/TransitionEnd = null
+EditorIcons/icons/TransitionEndAuto = null
+EditorIcons/icons/TransitionEndAutoBig = null
+EditorIcons/icons/TransitionEndBig = null
+EditorIcons/icons/TransitionImmediate = null
+EditorIcons/icons/TransitionImmediateAuto = null
+EditorIcons/icons/TransitionImmediateAutoBig = null
+EditorIcons/icons/TransitionImmediateBig = null
+EditorIcons/icons/TransitionSync = null
+EditorIcons/icons/TransitionSyncAuto = null
+EditorIcons/icons/TransitionSyncAutoBig = null
+EditorIcons/icons/TransitionSyncBig = null
+EditorIcons/icons/Translation = null
+EditorIcons/icons/Tree = null
+EditorIcons/icons/TripleBar = null
+EditorIcons/icons/TubeTrailMesh = null
+EditorIcons/icons/Tween = null
+EditorIcons/icons/UndoRedo = null
+EditorIcons/icons/Ungroup = null
+EditorIcons/icons/Unlinked = null
+EditorIcons/icons/Unlock = null
+EditorIcons/icons/UseBlendDisable = null
+EditorIcons/icons/UseBlendEnable = null
+EditorIcons/icons/Uv = null
+EditorIcons/icons/VBoxContainer = null
+EditorIcons/icons/VFlowContainer = null
+EditorIcons/icons/VScrollBar = null
+EditorIcons/icons/VSeparator = null
+EditorIcons/icons/VSlider = null
+EditorIcons/icons/VSplitContainer = null
+EditorIcons/icons/Variant = null
+EditorIcons/icons/VcsBranches = null
+EditorIcons/icons/Vector2 = null
+EditorIcons/icons/Vector2i = null
+EditorIcons/icons/Vector3 = null
+EditorIcons/icons/Vector3i = null
+EditorIcons/icons/Vector4 = null
+EditorIcons/icons/Vector4i = null
+EditorIcons/icons/VehicleBody3D = null
+EditorIcons/icons/VehicleWheel3D = null
+EditorIcons/icons/VideoStream = null
+EditorIcons/icons/VideoStreamPlayer = null
+EditorIcons/icons/VideoStreamTheora = null
+EditorIcons/icons/Viewport = null
+EditorIcons/icons/ViewportSpeed = null
+EditorIcons/icons/ViewportTexture = null
+EditorIcons/icons/ViewportZoom = null
+EditorIcons/icons/VisibleOnScreenEnabler2D = null
+EditorIcons/icons/VisibleOnScreenEnabler3D = null
+EditorIcons/icons/VisibleOnScreenNotifier2D = null
+EditorIcons/icons/VisibleOnScreenNotifier3D = null
+EditorIcons/icons/VisualInstance3D = null
+EditorIcons/icons/VisualShader = null
+EditorIcons/icons/VisualShaderGraphTextureUniform = null
+EditorIcons/icons/VisualShaderNodeBooleanUniform = null
+EditorIcons/icons/VisualShaderNodeColorConstant = null
+EditorIcons/icons/VisualShaderNodeColorOp = null
+EditorIcons/icons/VisualShaderNodeColorUniform = null
+EditorIcons/icons/VisualShaderNodeComment = null
+EditorIcons/icons/VisualShaderNodeCubemap = null
+EditorIcons/icons/VisualShaderNodeCubemapUniform = null
+EditorIcons/icons/VisualShaderNodeCurveTexture = null
+EditorIcons/icons/VisualShaderNodeCurveXYZTexture = null
+EditorIcons/icons/VisualShaderNodeExpression = null
+EditorIcons/icons/VisualShaderNodeFloatFunc = null
+EditorIcons/icons/VisualShaderNodeFloatOp = null
+EditorIcons/icons/VisualShaderNodeFloatUniform = null
+EditorIcons/icons/VisualShaderNodeGlobalExpression = null
+EditorIcons/icons/VisualShaderNodeInput = null
+EditorIcons/icons/VisualShaderNodeIntFunc = null
+EditorIcons/icons/VisualShaderNodeIntOp = null
+EditorIcons/icons/VisualShaderNodeIntUniform = null
+EditorIcons/icons/VisualShaderNodeTexture2DArrayUniform = null
+EditorIcons/icons/VisualShaderNodeTexture3DUniform = null
+EditorIcons/icons/VisualShaderNodeTextureUniform = null
+EditorIcons/icons/VisualShaderNodeTextureUniformTriplanar = null
+EditorIcons/icons/VisualShaderNodeTransformCompose = null
+EditorIcons/icons/VisualShaderNodeTransformDecompose = null
+EditorIcons/icons/VisualShaderNodeTransformUniform = null
+EditorIcons/icons/VisualShaderNodeTransformVecMult = null
+EditorIcons/icons/VisualShaderNodeVec3Uniform = null
+EditorIcons/icons/VisualShaderNodeVectorCompose = null
+EditorIcons/icons/VisualShaderNodeVectorDecompose = null
+EditorIcons/icons/VisualShaderNodeVectorDistance = null
+EditorIcons/icons/VisualShaderNodeVectorFunc = null
+EditorIcons/icons/VisualShaderNodeVectorLen = null
+EditorIcons/icons/VisualShaderPort = null
+EditorIcons/icons/VoxelGI = null
+EditorIcons/icons/VoxelGIData = null
+EditorIcons/icons/Warning = null
+EditorIcons/icons/WarningPattern = null
+EditorIcons/icons/Window = null
+EditorIcons/icons/World2D = null
+EditorIcons/icons/World3D = null
+EditorIcons/icons/WorldBoundaryShape2D = null
+EditorIcons/icons/WorldBoundaryShape3D = null
+EditorIcons/icons/WorldEnvironment = null
+EditorIcons/icons/X509Certificate = null
+EditorIcons/icons/XRAnchor3D = null
+EditorIcons/icons/XRBodyModifier3D = null
+EditorIcons/icons/XRCamera3D = null
+EditorIcons/icons/XRController3D = null
+EditorIcons/icons/XRFaceModifier3D = null
+EditorIcons/icons/XRHandModifier3D = null
+EditorIcons/icons/XRNode3D = null
+EditorIcons/icons/XROrigin3D = null
+EditorIcons/icons/YSort = null
+EditorIcons/icons/Zoom = null
+EditorIcons/icons/ZoomLess = null
+EditorIcons/icons/ZoomMore = null
+EditorIcons/icons/ZoomReset = null
+EditorIcons/icons/bool = ExtResource("140_ay6s4")
+EditorIcons/icons/float = ExtResource("141_ci0fw")
+EditorIcons/icons/int = ExtResource("142_1w2ae")
+EditorIcons/icons/uint = ExtResource("143_f53sh")
 EditorInspectorCategory/styles/bg = SubResource("StyleBoxFlat_m7yxi")
 EditorInspectorSection/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
 EditorLogFilterButton/colors/icon_normal_color = Color(0.921569, 0.858824, 0.698039, 1)
