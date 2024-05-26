@@ -331,7 +331,7 @@
 [ext_resource type="Texture2D" uid="uid://b308023gory5a" path="res://icons/gruvbox_dark/FogVolume.svg" id="284_4jdn8"]
 [ext_resource type="Texture2D" uid="uid://chh0fju0wdxg4" path="res://icons/gruvbox_dark/FolderBigThumb.svg" id="286_kli5u"]
 [ext_resource type="Texture2D" uid="uid://cvns1n0rsnsga" path="res://icons/gruvbox_dark/FolderBrowse.svg" id="287_ryy01"]
-[ext_resource type="Texture2D" uid="uid://7e31lgendewv" path="res://icons/gruvbox_dark/folder_create.svg" id="288_g3sex"]
+[ext_resource type="Texture2D" uid="uid://0m722tclk43x" path="res://icons/gruvbox_dark/FolderCreate.svg" id="288_kux30"]
 [ext_resource type="Texture2D" uid="uid://n74pdm2d7uk4" path="res://icons/gruvbox_dark/FolderMediumThumb.svg" id="289_t4pyh"]
 [ext_resource type="Texture2D" uid="uid://bmrpg3cyvfckg" path="res://icons/gruvbox_dark/Font.svg" id="290_kr2kl"]
 [ext_resource type="Texture2D" uid="uid://dn8d5do5wgh2q" path="res://icons/gruvbox_dark/FontFile.svg" id="291_15d0k"]
@@ -339,8 +339,10 @@
 [ext_resource type="Texture2D" uid="uid://b6ewqs0hnofeb" path="res://icons/gruvbox_dark/FontSize.svg" id="293_g5vjk"]
 [ext_resource type="Texture2D" uid="uid://sa2rvyre67qm" path="res://icons/gruvbox_dark/FontVariation.svg" id="294_fgsp1"]
 [ext_resource type="Texture2D" uid="uid://blkw1kl1dlq5g" path="res://icons/gruvbox_dark/Forward.svg" id="295_d7lsx"]
+[ext_resource type="Texture2D" uid="uid://b1ct4l1c26qsn" path="res://icons/gruvbox_dark/GDScript.svg" id="296_0qwqx"]
 [ext_resource type="Texture2D" uid="uid://da7qtwiueyub" path="res://icons/gruvbox_dark/GPUParticles2D.svg" id="296_kisws"]
 [ext_resource type="Texture2D" uid="uid://dviewp3hr618t" path="res://icons/gruvbox_dark/GPUParticles3D.svg" id="297_ct3hk"]
+[ext_resource type="Texture2D" uid="uid://dstx1r5o2pg6m" path="res://icons/gruvbox_dark/GDScriptInternal.svg" id="297_dwjrm"]
 [ext_resource type="Texture2D" uid="uid://cstx28bwi7wqg" path="res://icons/gruvbox_dark/GPUParticlesAttractorBox3D.svg" id="298_kld73"]
 [ext_resource type="Texture2D" uid="uid://2i34wq76nf5q" path="res://icons/gruvbox_dark/GPUParticlesAttractorSphere3D.svg" id="299_m1pue"]
 [ext_resource type="Texture2D" uid="uid://dbe7pw777c2a6" path="res://icons/gruvbox_dark/GPUParticlesAttractorVectorField3D.svg" id="300_0l5u0"]
@@ -588,7 +590,6 @@
 [ext_resource type="Texture2D" uid="uid://b85jtseyt4534" path="res://icons/gruvbox_dark/PageFirst.svg" id="566_hge4a"]
 [ext_resource type="Texture2D" uid="uid://b7s3b6sgnaa74" path="res://icons/gruvbox_dark/PageLast.svg" id="567_u8c6g"]
 [ext_resource type="Texture2D" uid="uid://ccf7c673h2c10" path="res://icons/gruvbox_dark/PagePrevious.svg" id="569_m4bb1"]
-[ext_resource type="Texture2D" uid="uid://dsgi58olt725g" path="res://icons/gruvbox_dark/Paint.svg" id="570_s1qtv"]
 [ext_resource type="Texture2D" uid="uid://cgxhjdmogrsg" path="res://icons/gruvbox_dark/Panel.svg" id="571_g2415"]
 [ext_resource type="Texture2D" uid="uid://dtbw7c3cpw7uq" path="res://icons/gruvbox_dark/PanelContainer.svg" id="572_byvbi"]
 [ext_resource type="Texture2D" uid="uid://b8pxrl7t2v06g" path="res://icons/gruvbox_dark/Panels1.svg" id="573_pnrr6"]
@@ -692,7 +693,6 @@
 [ext_resource type="Texture2D" uid="uid://c0tf07f8p7e7o" path="res://icons/gruvbox_dark/RigidBody2D.svg" id="674_gfgob"]
 [ext_resource type="Texture2D" uid="uid://tb02c1nmyhub" path="res://icons/gruvbox_dark/RigidBody3D.svg" id="675_mj81s"]
 [ext_resource type="Texture2D" uid="uid://12imtb16dggh" path="res://icons/gruvbox_dark/RootMotionView.svg" id="676_i1v05"]
-[ext_resource type="Texture2D" uid="uid://dqjp6njfqjat4" path="res://icons/gruvbox_dark/RotateLeft.svg" id="677_k7pim"]
 [ext_resource type="Texture2D" uid="uid://c86xrcsjm0ljh" path="res://icons/gruvbox_dark/RotateRight.svg" id="678_2r87i"]
 [ext_resource type="Texture2D" uid="uid://bj7foo1jbje33" path="res://icons/gruvbox_dark/Ruler.svg" id="679_77anl"]
 [ext_resource type="Texture2D" uid="uid://bwi17ftvi0sdv" path="res://icons/gruvbox_dark/SampleLibrary.svg" id="680_e7tl7"]
@@ -1231,7 +1231,7 @@ expand_margin_top = 2.0
 expand_margin_bottom = 2.0
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_06dhb"]
-bg_color = Color(0.270588, 0.521569, 0.533333, 1)
+bg_color = Color(0.513726, 0.647059, 0.596078, 1)
 expand_margin_top = 2.0
 expand_margin_bottom = 2.0
 
@@ -1559,7 +1559,7 @@ expand_margin_left = 2.0
 expand_margin_right = 2.0
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_gj7ic"]
-bg_color = Color(0.270588, 0.521569, 0.533333, 1)
+bg_color = Color(0.513726, 0.647059, 0.596078, 1)
 expand_margin_left = 2.0
 expand_margin_right = 2.0
 
@@ -1596,18 +1596,15 @@ AcceptDialog/constants/buttons_separation = 10
 AcceptDialog/styles/panel = SubResource("StyleBoxFlat_ua67j")
 AssetLib/colors/status_color = Color(0.921569, 0.858824, 0.698039, 1)
 AssetLib/icons/AssetLib = ExtResource("9_le3p3")
-Button/colors/font_color = Color(0.835294, 0.768627, 0.631373, 1)
+AssetLib/icons/dismiss = ExtResource("147_7md5p")
+Button/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
 Button/colors/font_disabled_color = Color(0.486275, 0.435294, 0.392157, 1)
-Button/colors/font_focus_color = Color(0.835294, 0.768627, 0.631373, 1)
-Button/colors/font_hover_color = Color(0.984314, 0.945098, 0.780392, 1)
-Button/colors/font_hover_pressed_color = Color(0.921569, 0.858824, 0.698039, 1)
-Button/colors/font_pressed_color = Color(0.270588, 0.521569, 0.533333, 1)
-Button/colors/icon_disabled_color = Color(0.486275, 0.435294, 0.392157, 1)
-Button/colors/icon_focus_color = Color(0.921569, 0.858824, 0.698039, 1)
-Button/colors/icon_hover_color = Color(0.270588, 0.521569, 0.533333, 1)
-Button/colors/icon_hover_pressed_color = Color(0.270588, 0.521569, 0.533333, 1)
-Button/colors/icon_normal_color = Color(0.921569, 0.858824, 0.698039, 1)
-Button/colors/icon_pressed_color = Color(0.270588, 0.521569, 0.533333, 1)
+Button/colors/font_focus_color = Color(0.921569, 0.858824, 0.698039, 1)
+Button/colors/font_hover_color = Color(0.976471, 0.960784, 0.843137, 1)
+Button/colors/font_hover_pressed_color = Color(0.513726, 0.647059, 0.596078, 1)
+Button/colors/font_pressed_color = Color(0.513726, 0.647059, 0.596078, 1)
+Button/colors/icon_hover_color = Color(0.513726, 0.647059, 0.596078, 1)
+Button/colors/icon_pressed_color = Color(0.513726, 0.647059, 0.596078, 1)
 Button/constants/h_separation = 4
 Button/constants/icon_max_width = 0
 Button/constants/outline_size = 0
@@ -1682,8 +1679,11 @@ ColorPresetButton/icons/overbright_indicator = ExtResource("29_nheil")
 ColorPresetButton/icons/preset_bg = ExtResource("35_d3gkm")
 ColorPresetButton/styles/preset_fg = SubResource("StyleBoxFlat_m0fet")
 Editor/colors/box_selection_fill_color = Color(1, 1, 1, 0.301961)
-Editor/colors/box_selection_stroke_color = Color(1, 1, 1, 0.8)
+Editor/colors/box_selection_stroke_color = Color(0.921569, 0.858824, 0.698039, 1)
 Editor/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
+Editor/colors/highlighted_font_color = Color(0.921569, 0.858824, 0.698039, 1)
+Editor/colors/mono_color = Color(0.921569, 0.858824, 0.698039, 1)
+Editor/colors/sub_inspector_property_color = Color(0.921569, 0.858824, 0.698039, 1)
 Editor/constants/top_bar_separation = 2
 Editor/constants/window_border_margin = 3
 EditorAbout/styles/panel = SubResource("StyleBoxFlat_r60tl")
@@ -1693,7 +1693,7 @@ EditorHelp/colors/comment_color = Color(0.921569, 0.858824, 0.698039, 1)
 EditorHelp/colors/headline_color = Color(0.843137, 0.6, 0.129412, 1)
 EditorHelp/colors/kbd_bg_color = Color(0.235294, 0.219608, 0.211765, 1)
 EditorHelp/colors/kbd_color = Color(0.835294, 0.768627, 0.631373, 1)
-EditorHelp/colors/link_color = Color(0.270588, 0.521569, 0.533333, 1)
+EditorHelp/colors/link_color = Color(0.513726, 0.647059, 0.596078, 1)
 EditorHelp/colors/param_bg_color = Color(0.235294, 0.219608, 0.211765, 1)
 EditorHelp/colors/qualifier_color = Color(0.407843, 0.615686, 0.415686, 1)
 EditorHelp/colors/selection_color = Color(0.270588, 0.521569, 0.533333, 1)
@@ -1961,7 +1961,7 @@ EditorIcons/icons/FogVolume = ExtResource("284_4jdn8")
 EditorIcons/icons/Folder = ExtResource("20_pxgv5")
 EditorIcons/icons/FolderBigThumb = ExtResource("286_kli5u")
 EditorIcons/icons/FolderBrowse = ExtResource("287_ryy01")
-EditorIcons/icons/FolderCreate = ExtResource("288_g3sex")
+EditorIcons/icons/FolderCreate = ExtResource("288_kux30")
 EditorIcons/icons/FolderMediumThumb = ExtResource("289_t4pyh")
 EditorIcons/icons/Font = ExtResource("290_kr2kl")
 EditorIcons/icons/FontFile = ExtResource("291_15d0k")
@@ -1969,6 +1969,8 @@ EditorIcons/icons/FontItem = ExtResource("292_gofby")
 EditorIcons/icons/FontSize = ExtResource("293_g5vjk")
 EditorIcons/icons/FontVariation = ExtResource("294_fgsp1")
 EditorIcons/icons/Forward = ExtResource("295_d7lsx")
+EditorIcons/icons/GDScript = ExtResource("296_0qwqx")
+EditorIcons/icons/GDScriptInternal = ExtResource("297_dwjrm")
 EditorIcons/icons/GPUParticles2D = ExtResource("296_kisws")
 EditorIcons/icons/GPUParticles3D = ExtResource("297_ct3hk")
 EditorIcons/icons/GPUParticlesAttractorBox3D = ExtResource("298_kld73")
@@ -2267,7 +2269,7 @@ EditorIcons/icons/PageFirst = ExtResource("566_hge4a")
 EditorIcons/icons/PageLast = ExtResource("567_u8c6g")
 EditorIcons/icons/PageNext = ExtResource("368_h3s5d")
 EditorIcons/icons/PagePrevious = ExtResource("569_m4bb1")
-EditorIcons/icons/Paint = ExtResource("570_s1qtv")
+EditorIcons/icons/Paint = ExtResource("36_714sy")
 EditorIcons/icons/Panel = ExtResource("571_g2415")
 EditorIcons/icons/PanelContainer = ExtResource("572_byvbi")
 EditorIcons/icons/Panels1 = ExtResource("573_pnrr6")
@@ -2378,7 +2380,7 @@ EditorIcons/icons/RichTextLabel = ExtResource("673_lr88n")
 EditorIcons/icons/RigidBody2D = ExtResource("674_gfgob")
 EditorIcons/icons/RigidBody3D = ExtResource("675_mj81s")
 EditorIcons/icons/RootMotionView = ExtResource("676_i1v05")
-EditorIcons/icons/RotateLeft = ExtResource("677_k7pim")
+EditorIcons/icons/RotateLeft = ExtResource("23_r4lqy")
 EditorIcons/icons/RotateRight = ExtResource("678_2r87i")
 EditorIcons/icons/Ruler = ExtResource("679_77anl")
 EditorIcons/icons/SampleLibrary = ExtResource("680_e7tl7")
@@ -2618,8 +2620,6 @@ EditorIcons/icons/int = ExtResource("142_1w2ae")
 EditorIcons/icons/uint = ExtResource("143_f53sh")
 EditorInspectorCategory/styles/bg = SubResource("StyleBoxFlat_m7yxi")
 EditorInspectorSection/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
-EditorLogFilterButton/colors/icon_normal_color = Color(0.921569, 0.858824, 0.698039, 1)
-EditorLogFilterButton/colors/icon_pressed_color = Color(0.270588, 0.521569, 0.533333, 1)
 EditorLogFilterButton/styles/pressed = SubResource("StyleBoxFlat_3f4qa")
 EditorProperty/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
 EditorProperty/colors/property_color = Color(0.921569, 0.858824, 0.698039, 1)
@@ -2642,8 +2642,8 @@ EditorStyles/styles/LaunchPadNormal = SubResource("StyleBoxFlat_4j5qq")
 EditorStyles/styles/ThemeEditorPreviewBG = SubResource("StyleBoxFlat_qmdyk")
 EditorStyles/styles/ThemeEditorPreviewFG = SubResource("StyleBoxFlat_gpgd1")
 EditorValidationPanel/styles/panel = SubResource("StyleBoxFlat_jqvep")
-FileDialog/colors/file_icon_color = Color(0.513726, 0.647059, 0.596078, 1)
-FileDialog/colors/folder_icon_color = Color(0.513726, 0.647059, 0.596078, 1)
+FileDialog/colors/file_icon_color = Color(1, 1, 1, 1)
+FileDialog/colors/folder_icon_color = Color(1, 1, 1, 1)
 FileDialog/icons/back_folder = ExtResource("15_euo1i")
 FileDialog/icons/file = ExtResource("19_q1qvr")
 FileDialog/icons/folder = ExtResource("20_pxgv5")
@@ -2713,7 +2713,7 @@ InspectorActionButton/styles/normal = SubResource("StyleBoxFlat_l42jc")
 InspectorActionButton/styles/pressed = SubResource("StyleBoxFlat_p7suk")
 ItemList/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
 ItemList/colors/font_hovered_color = Color(0.513726, 0.647059, 0.596078, 1)
-ItemList/colors/font_selected_color = Color(0.270588, 0.521569, 0.533333, 1)
+ItemList/colors/font_selected_color = Color(0.513726, 0.647059, 0.596078, 1)
 ItemList/colors/guide_color = Color(1, 1, 1, 0)
 ItemList/constants/v_separation = 4
 ItemList/styles/cursor = SubResource("StyleBoxFlat_m3jjh")
@@ -2727,10 +2727,10 @@ Label/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
 Label/styles/normal = SubResource("StyleBoxEmpty_pgp2j")
 LineEdit/colors/caret_color = Color(0.921569, 0.858824, 0.698039, 1)
 LineEdit/colors/clear_button_color = Color(0.921569, 0.858824, 0.698039, 1)
-LineEdit/colors/clear_button_color_pressed = Color(0.270588, 0.521569, 0.533333, 1)
-LineEdit/colors/font_color = Color(0.835294, 0.768627, 0.631373, 1)
+LineEdit/colors/clear_button_color_pressed = Color(0.513726, 0.647059, 0.596078, 1)
+LineEdit/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
 LineEdit/colors/font_placeholder_color = Color(0.572549, 0.513726, 0.454902, 1)
-LineEdit/colors/font_selected_color = Color(0.835294, 0.768627, 0.631373, 1)
+LineEdit/colors/font_selected_color = Color(0.921569, 0.858824, 0.698039, 1)
 LineEdit/colors/font_uneditable_color = Color(0.486275, 0.435294, 0.392157, 1)
 LineEdit/colors/selection_color = Color(0.572549, 0.513726, 0.454902, 1)
 LineEdit/icons/clear = ExtResource("8_3i7mh")
@@ -2738,18 +2738,19 @@ LineEdit/styles/focus = SubResource("StyleBoxFlat_cfx35")
 LineEdit/styles/normal = SubResource("StyleBoxFlat_0nfa3")
 LineEdit/styles/read_only = SubResource("StyleBoxFlat_fdq0g")
 LinkButton/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
+LinkButton/colors/font_focus_color = Color(0.921569, 0.858824, 0.698039, 1)
 LinkButton/colors/font_hover_color = Color(0.513726, 0.647059, 0.596078, 1)
-LinkButton/colors/font_hover_pressed_color = Color(0.270588, 0.521569, 0.533333, 1)
-LinkButton/colors/font_pressed_color = Color(0.270588, 0.521569, 0.533333, 1)
+LinkButton/colors/font_hover_pressed_color = Color(0.513726, 0.647059, 0.596078, 1)
+LinkButton/colors/font_pressed_color = Color(0.513726, 0.647059, 0.596078, 1)
 MenuBar/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
 MenuBar/colors/font_hover_color = Color(0.984314, 0.945098, 0.780392, 1)
-MenuBar/colors/font_hover_pressed_color = Color(0.270588, 0.521569, 0.533333, 1)
-MenuBar/colors/font_pressed_color = Color(0.270588, 0.521569, 0.533333, 1)
+MenuBar/colors/font_hover_pressed_color = Color(0.513726, 0.647059, 0.596078, 1)
+MenuBar/colors/font_pressed_color = Color(0.513726, 0.647059, 0.596078, 1)
 MenuButton/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
 MenuButton/colors/font_disabled_color = Color(0.572549, 0.513726, 0.454902, 1)
 MenuButton/colors/font_focus_color = Color(0.921569, 0.858824, 0.698039, 1)
-MenuButton/colors/font_hover_color = Color(0.741176, 0.682353, 0.576471, 1)
-MenuButton/colors/font_pressed_color = Color(0.741176, 0.682353, 0.576471, 1)
+MenuButton/colors/font_hover_color = Color(0.976471, 0.960784, 0.843137, 1)
+MenuButton/colors/font_pressed_color = Color(0.921569, 0.858824, 0.698039, 1)
 MenuButton/styles/disabled = SubResource("StyleBoxFlat_l5ore")
 MenuButton/styles/focus = SubResource("StyleBoxFlat_l5ore")
 MenuButton/styles/hover = SubResource("StyleBoxFlat_5kevk")
@@ -2770,8 +2771,8 @@ OptionButton/styles/normal_mirrored = SubResource("StyleBoxFlat_if3jf")
 OptionButton/styles/pressed = SubResource("StyleBoxFlat_4355j")
 OptionButton/styles/pressed_mirrored = SubResource("StyleBoxFlat_4355j")
 Panel/styles/panel = SubResource("StyleBoxFlat_cnwtw")
-PopupMenu/colors/font_color = Color(0.835294, 0.768627, 0.631373, 1)
-PopupMenu/colors/font_hover_color = Color(0.921569, 0.858824, 0.698039, 1)
+PopupMenu/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
+PopupMenu/colors/font_hover_color = Color(0.976471, 0.960784, 0.843137, 1)
 PopupMenu/colors/font_separator_color = Color(0.835294, 0.768627, 0.631373, 1)
 PopupMenu/constants/v_separation = 8
 PopupMenu/icons/checked = ExtResource("1_brh2b")
@@ -2793,11 +2794,11 @@ PopupMenu/styles/labeled_separator_right = SubResource("StyleBoxLine_dhrv3")
 PopupMenu/styles/panel = SubResource("StyleBoxFlat_ffrqs")
 PopupMenu/styles/separator = SubResource("StyleBoxLine_rijeh")
 PopupPanel/styles/panel = SubResource("StyleBoxFlat_sxt3s")
-PreviewLightButton/colors/icon_focus_color = Color(0.921569, 0.858824, 0.698039, 1)
-PreviewLightButton/colors/icon_hover_color = Color(0.513726, 0.647059, 0.596078, 1)
-PreviewLightButton/colors/icon_hover_pressed_color = Color(0.270588, 0.521569, 0.533333, 1)
-PreviewLightButton/colors/icon_normal_color = Color(0.921569, 0.858824, 0.698039, 1)
-PreviewLightButton/colors/icon_pressed_color = Color(0.270588, 0.521569, 0.533333, 1)
+PreviewLightButton/colors/icon_focus_color = Color(1, 1, 1, 1)
+PreviewLightButton/colors/icon_hover_color = Color(1, 1, 1, 1)
+PreviewLightButton/colors/icon_hover_pressed_color = Color(1, 1, 1, 1)
+PreviewLightButton/colors/icon_normal_color = Color(1, 1, 1, 1)
+PreviewLightButton/colors/icon_pressed_color = Color(1, 1, 1, 1)
 ProgressBar/colors/font_color = Color(0.835294, 0.768627, 0.631373, 1)
 ProgressBar/colors/font_outline_color = Color(0.835294, 0.768627, 0.631373, 1)
 ProgressBar/styles/background = SubResource("StyleBoxFlat_twhwf")
@@ -2808,7 +2809,7 @@ ProjectTag/styles/hover = SubResource("StyleBoxFlat_okg6l")
 ProjectTag/styles/normal = SubResource("StyleBoxFlat_m7xxi")
 ProjectTag/styles/pressed = SubResource("StyleBoxFlat_bacff")
 RichTextLabel/colors/default_color = Color(0.921569, 0.858824, 0.698039, 1)
-RichTextLabel/colors/font_selected_color = Color(0.835294, 0.768627, 0.631373, 1)
+RichTextLabel/colors/font_selected_color = Color(0.921569, 0.858824, 0.698039, 1)
 RichTextLabel/colors/selection_color = Color(0.572549, 0.513726, 0.454902, 1)
 RichTextLabel/styles/focus = SubResource("StyleBoxFlat_tx2dl")
 RichTextLabel/styles/normal = SubResource("StyleBoxFlat_tx2dl")
@@ -2851,7 +2852,7 @@ TabContainer/styles/tabbar_background = SubResource("StyleBoxEmpty_rot5j")
 TabContainerOdd/styles/panel = SubResource("StyleBoxFlat_vo8vm")
 TabContainerOdd/styles/tab_selected = SubResource("StyleBoxFlat_l52co")
 TextEdit/colors/caret_color = Color(0.921569, 0.858824, 0.698039, 1)
-TextEdit/colors/font_color = Color(0.835294, 0.768627, 0.631373, 1)
+TextEdit/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
 TextEdit/colors/font_placeholder_color = Color(0.572549, 0.513726, 0.454902, 1)
 TextEdit/colors/font_readonly_color = Color(0.572549, 0.513726, 0.454902, 1)
 TextEdit/colors/font_selected_color = Color(0.921569, 0.858824, 0.698039, 1)
@@ -2867,7 +2868,7 @@ ThemeEditor/styles/preview_picker_overlay = SubResource("StyleBoxFlat_hx5mc")
 TooltipLabel/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
 TooltipPanel/styles/panel = SubResource("StyleBoxFlat_ggovr")
 Tree/colors/drop_position_color = Color(1, 1, 1, 0.392157)
-Tree/colors/font_color = Color(0.835294, 0.768627, 0.631373, 1)
+Tree/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
 Tree/colors/font_selected_color = Color(0.921569, 0.858824, 0.698039, 1)
 Tree/colors/title_button_color = Color(0.921569, 0.858824, 0.698039, 1)
 Tree/constants/draw_guides = 0
